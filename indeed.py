@@ -28,7 +28,9 @@ class IndeedScraper:
         self.service = Service()
         self.main_url = 'https://in.indeed.com/'
         self.driver = self.start_driver(self.main_url)
-        self.output_file = 'indeed.csv'
+        self.csv_output_file = 'indeed.csv'
+        self.excel_output_file = 'indeed.xlsx'
+        self.json_output_file = 'indeed.json'
         self.mongo_client = Indeed_Mongo()
         self.mongo_client.clear_all_jobs_14_or_above()
         self.next_page_link = ''
@@ -266,24 +268,31 @@ class IndeedScraper:
 
     def create_csv(self, data):
         df = pd.DataFrame([data])
-        if os.path.exists(self.output_file):
-            df.to_csv(self.output_file, header=False, index=False, mode='a')
+        if os.path.exists(self.csv_output_file):
+            df.to_csv(self.csv_output_file, header=False, index=False, mode='a')
         else:
-            df.to_csv(self.output_file, header=True, index=False, mode='a')
+            df.to_csv(self.csv_output_file, header=True, index=False, mode='a')
         self.mongo_client.insert_data(data)
 
     def create_excel(self,data):
         df = pd.DataFrame([data])
-        if os.path.exists(self.output_file):
-            with pd.ExcelWriter(self.output_file, engine='openpyxl', mode='a', if_sheet_exists='overlay') as writer:
+        if os.path.exists(self.excel_output_file):
+            with pd.ExcelWriter(self.excel_output_file, engine='openpyxl', mode='a', if_sheet_exists='overlay') as writer:
                 sheet = writer.sheets.get('Sheet1')
                 start_row = sheet.max_row if sheet else 0
                 df.to_excel(writer, startrow=start_row, index=False, header=False)
         else:
-            df.to_excel(self.output_file, index=False , header=True)
+            df.to_excel(self.excel_output_file, index=False , header=True)
 
     def create_json(self,data):
-        pass
+        df = pd.DataFrame([data])
+        if os.path.exists(self.json_output_file):
+            df_existing = pd.read_json(self.json_output_file)
+            df_combined = pd.concat([df_existing, df], ignore_index=True)
+            df_combined.to_json(self.json_output_file, orient='records', indent=4)
+        else:
+            df.to_json(self.json_output_file, orient='records', indent=4)
+
 
 if __name__ == '__main__':
     webscrapper = IndeedScraper()
