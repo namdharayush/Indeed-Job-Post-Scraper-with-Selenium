@@ -1,0 +1,2100 @@
+[
+{
+  "_id": {
+    "$oid": "66bc4e59831b20e65b2d29d4"
+  },
+  "job_id": "c1f4c95b8ff95093",
+  "company": "Intelligent metal works",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=c1f4c95b8ff95093&bb=f3ikUaCKKnx0hqRfaFS22HGETYt2WNXjha2a6MYUTcQsGImI7EmWomo3gGM7981-HSlnJ8UwRAl5z9UPm7CZrNAgwrJocwnYJzv4Cd4CNG5m41piwki-4-6cMYTES94c&xkcb=SoDT67M39n6AIPQNiB0LbzkdCdPP&fccid=cdac33973f6bbe91&cmp=Intelligent-metal-works&ti=Web+Developer&vjs=3",
+  "job_posted": "13/08/2024",
+  "title": "Web Developer",
+  "salary": "₹9,778.33 - ₹43,153.40 a month",
+  "job_type": [
+    "Part-time"
+  ],
+  "shift_schedule": [
+    "Night shift",
+    "Day shift"
+  ],
+  "benefits": "",
+  "location": "",
+  "description": {
+    "Education": [
+      "Bachelor's (Required)"
+    ],
+    "Experience": [
+      "CSS: 1 year (Preferred)",
+      "total work: 1 year (Preferred)",
+      "HTML5: 1 year (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:57:37.970Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e5b831b20e65b2d29d5"
+  },
+  "job_id": "5bda55f2238db33e",
+  "company": "AVS Info systems limited",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=5bda55f2238db33e&bb=f3ikUaCKKnx0hqRfaFS22EKvGjF2l25uylQc-VCLL6D5bc1BSL_Lp9PcagrXj3PhrHPRBjmAusKZ8P6GgyQTvNhu9A7KonG8aIEIJU-3cgwMMXoBosG87vAvzSgUVuY_&xkcb=SoBn67M39n6AIPQNiB0KbzkdCdPP&fccid=a57215e37c0d63bf&cmp=AVS-Info-systems-limited&ti=Web+Developer&vjs=3",
+  "job_posted": "14/08/2024",
+  "title": "Webmaster/Web Developer",
+  "salary": "₹9,769.19 - ₹43,144.89 a month",
+  "job_type": [
+    "Part-time",
+    "Temporary",
+    "Contract"
+  ],
+  "shift_schedule": [
+    "Evening shift",
+    "Monday to Friday"
+  ],
+  "benefits": "",
+  "location": "",
+  "description": {
+    "Key Responsibilities": [
+      "Website Maintenance and Updates: Regularly update content, images, and functionalities across all company websites.",
+      "SEO and Performance Optimization: Implement SEO best practices to improve search engine rankings and ensure optimal website performance.",
+      "Monitoring and Analytics: Monitor website traffic and performance metrics using tools like Google Analytics to identify opportunities for improvement.",
+      "Security and Compliance: Maintain website security protocols and ensure compliance with data protection regulations.",
+      "Content Management: Upload and manage content, including articles, blogs, videos, and other media types.",
+      "User Experience (UX) Optimization: Continuously improve website usability and user experience based on usability testing and feedback.",
+      "Responsive Design Implementation: Ensure websites are responsive and mobile-friendly across various devices and platforms.",
+      "Collaboration: Work closely with cross-functional teams including marketing, design, and development to align website updates with overall business objectives.",
+      "Troubleshooting and Support: Address technical issues and provide support for website users as needed."
+    ],
+    "Required Skills and Qualifications": [
+      "Proven experience as a Webmaster or in a similar role managing corporate websites.",
+      "Proficiency in web development languages such as HTML, CSS, JavaScript, and familiarity with CMS platforms (e.g., WordPress, Drupal).",
+      "Strong understanding of SEO principles and experience with SEO tools like Google Analytics, SEMrush, or similar.",
+      "Knowledge of web standards, usability principles, and responsive design.",
+      "Experience with website security protocols and best practices.",
+      "Excellent analytical and problem-solving skills with a keen eye for detail.",
+      "Ability to work effectively both independently and as part of a team.",
+      "Strong communication skills and ability to collaborate with various stakeholders.",
+      "Bachelor's degree in Computer Science, Web Design, or a related field (preferred)."
+    ],
+    "Location Type": [
+      "Remote"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "CSS: 3 years (Preferred)",
+      "total work: 3 years (Preferred)",
+      "HTML5: 4 years (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:57:39.865Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e5d831b20e65b2d29d6"
+  },
+  "job_id": "7079115485a9a7e1",
+  "company": "British Columbia College of Management, Knowledge...",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=7079115485a9a7e1&bb=f3ikUaCKKnx0hqRfaFS22Et4CNhAfedNhYo1ysG9TvhT_Kf14rT3DwG5-GRD9ENcosYeE1_RLrZao3h_8AKp3S5BfganAcdaREy9yCOJXTbN0Wwib5o6AN-YQzGsOyV-&xkcb=SoD667M39n6AIPQNiB0JbzkdCdPP&fccid=4177c9970e78cf1c&cmp=BCCM-Knowledge-park&ti=Web+Developer&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "Web Developer",
+  "salary": "₹800 - ₹1,000 an hour",
+  "job_type": [
+    "Part-time"
+  ],
+  "shift_schedule": [
+    "Evening shift"
+  ],
+  "benefits": "",
+  "location": "",
+  "description": {
+    "Key Responsibilities": [
+      "Instruction: Teach undergraduate or graduate-level courses in web development, including but not limited to HTML, CSS, JavaScript, responsive design, and frameworks such as React or Angular.",
+      "Curriculum Development: Assist in developing and updating course materials, including syllabi, assignments, and projects, to ensure they meet industry standards and educational goals.",
+      "Student Engagement: Foster a positive learning environment, provide academic advising, and offer constructive feedback to students.",
+      "Assessment: Evaluate and grade student performance on assignments, exams, and projects. Provide timely and actionable feedback to support student success.",
+      "Office Hours: Hold regular office hours to provide additional support and guidance to students outside of class.",
+      "Collaboration: Work with departmental colleagues to enhance course offerings and contribute to program development and improvement.",
+      "Professional Development: Stay current with industry trends, tools, and technologies to ensure the relevance of course content."
+    ],
+    "Qualifications": [
+      "Bachelor’s degree in Computer Science, Information Technology, or related field.",
+      "At least 5 years of experience in web development, specifically with WordPress and PHP.",
+      "Strong understanding of front-end technologies, including HTML5, CSS3, JavaScript, and jQuery.",
+      "Experience with responsive and adaptive design.",
+      "Good understanding of website architecture and aesthetics.",
+      "Ability to convert comprehensive layout and wireframes into working WordPress pages.",
+      "Knowledge of how to interact with RESTful APIs and formats (JSON, XML).",
+      "Proficient understanding of code versioning tools such as Git.",
+      "Excellent problem-solving skills and attention to detail.",
+      "Strong communication and teamwork abilities."
+    ],
+    "Education": [
+      "Master's (Preferred)"
+    ],
+    "Experience": [
+      "total work: 7 years (Required)",
+      "Web development: 6 years (Required)"
+    ],
+    "Language": [
+      "Hindi (Preferred)",
+      "English (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:57:41.780Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e69831b20e65b2d29d7"
+  },
+  "job_id": "24c544249a80b109",
+  "company": "Gensler",
+  "apply_link": "https://in.indeed.com/applystart?jk=24c544249a80b109&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57p3vn7h63c892&spon=0&xkcb=SoBO67M39n6AIPQNiB0IbzkdCdPP&xfps=b1c81f5c-e4f7-44ca-97f3-da6a613af94f&sjdu=BQ1fOKU6SMjz57AxXCzG64DDplm6SwWjHcxyoDIphKlXqQP7iAyhzKg-sxgAOul12q02rqJY7XbKTFkfIeqcPT-ciF4WFn5LY7CyOn-RB3iTZ7zsFt8Ob4bn7aHfsbT3555PmwwZbIl2jhnrLaL6UXbahpns5TebZ9fP0j0SZnwsuFArjUelx5cwxcK3EbnKw9_XINGINv7OnqX9-Wv1cg&vjfrom=vjs&asub=mob&astse=c1657058c2e0e77e&assa=2687",
+  "job_link": "https://in.indeed.com/rc/clk?jk=24c544249a80b109&bb=f3ikUaCKKnx0hqRfaFS22KNYb03XD_cNK6y2X_l994y77_pQtcIYiXDjQ_Af8bdNaJTfg_ENHqRIdMMhdQERM-DHmgXvvJCnlJyfjMcL3ZWeCAEGyMRJJg%3D%3D&xkcb=SoBO67M39n6AIPQNiB0IbzkdCdPP&fccid=7108e42f22171d5c&vjs=3",
+  "job_posted": "14/08/2024",
+  "title": "Web Developer",
+  "salary": "",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [],
+  "benefits": "Health insurance",
+  "location": "Bengaluru, Karnataka",
+  "description": "",
+  "created_at": {
+    "$date": "2024-08-14T11:57:53.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e6a831b20e65b2d29d8"
+  },
+  "job_id": "8214f757acb4afeb",
+  "company": "Fibre Bond Industries",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Ak6GMVuqN_gM85oigv_u08wPy7BJK5QpCTG3hI9rCn0H8V6a3eyxQcjtAI6QMXfVF4X6LyTS1q-dhhPbfbq-yxVa3qPcgOlJfFxw0BG1pCDP_vYJ87NTXnHWnxVM88YGg4nN71pzz63zXyLB3_q5QqOihex_NkcN0nddBndCngoh73gJAGKryCOFkjNOKacGeRBpL8lyAEA_v3dO-noA_auEj21Po2BoAEhBdyNvVqKuDaEr3rEPbfJkeyJOaa4QsrCUhlbAlic2dKTGIXGdlt2nj98Srm3iClpBBU_grPGfM2C4hH22h0A0-HKPR7Gtm2NwFf2lkkhm2FBJICRa-Vyrg3ebdoIuQLXhj6jq5yRomVuLYN9aiurEiHcAxghnfy2de2L-sk-AXM3rzVjUEuDW8m-GAvDSYDNzUTTTbQvs2eOsfp5fK9Il7OEfCMOl-6X1gfLajTAZujz5PrNdoO1a25DG4l8o2Y_q9tNb2PYFBvFp9bdbIzGAhUe07iEtEFPDBf7k0ed8Y8w-lky6dOkNV0_OuaZSQe1jtVle8nc8M9N4KJAEnJOnlBP_XSvMoomit2VVDVGlyEGpmE8CHPa_RxVAC_XRtitTRDKCywOhJENwEOK01y2bj71H7cK7k=&xkcb=SoA06_M39n6AIPQNiB0PbzkdCdPP&camk=f416UQcMBpA7D8z_TEfyZg==&p=4&fvj=1&vjs=3",
+  "job_posted": "10/08/2024",
+  "title": "Wordpress Developer",
+  "salary": "₹20,000 - ₹50,000 a month",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Day shift"
+  ],
+  "benefits": "",
+  "location": "Navi Mumbai, Maharashtra",
+  "description": {
+    "Supplemental Pay": [
+      "Overtime pay",
+      "Performance bonus",
+      "Yearly bonus"
+    ],
+    "Ability to commute/relocate": [
+      "Navi Mumbai, Maharashtra: Reliably commute or planning to relocate before starting work (Required)"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "CSS: 1 year (Required)",
+      "total work: 1 year (Required)",
+      "HTML5: 1 year (Required)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:57:54.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e76831b20e65b2d29d9"
+  },
+  "job_id": "3cef6cb481a44293",
+  "company": "Accenture",
+  "apply_link": "https://in.indeed.com/applystart?jk=3cef6cb481a44293&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57p3vn7h63c892&spon=0&xkcb=SoB067M39n6AIPQNiB0ObzkdCdPP&xfps=7fdb9757-8e83-4bab-8471-96e017116087&sjdu=BQ1fOKU6SMjz57AxXCzG64DDplm6SwWjHcxyoDIphKlkpgIlYMGNw_XIlaPZQWyKKubhuBxzNwYWU5mT1IBBZ2JiokX6sDAtuEbbVlE7rWjW8-ufPzr7Nf2FiocFD3JOOVSrHyXg252r1bKNGTSD-uZbi8_y8YhR8djvSzdLEREpJxh-n9RVGRNO8VsBCTa_w9_XINGINv7OnqX9-Wv1cg&vjfrom=vjs&asub=mob&astse=07289dd81302821e&assa=5629",
+  "job_link": "https://in.indeed.com/rc/clk?jk=3cef6cb481a44293&bb=f3ikUaCKKnx0hqRfaFS22F3rIgnxhAROADgj50mqYPNJoHsx2xpIG1bCZ8lRKO6-2EfxyPY4IZtyhhrtcc7r9zo9z0S63dzP1kGEc5f5k6ZS9aNrogPbMw%3D%3D&xkcb=SoB067M39n6AIPQNiB0ObzkdCdPP&fccid=a4e4e2eaf26690c9&vjs=3",
+  "job_posted": "03/08/2024",
+  "title": "Web Developer Associate",
+  "salary": "",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Rotational shift"
+  ],
+  "benefits": "",
+  "location": "Mumbai, Maharashtra",
+  "description": "",
+  "created_at": {
+    "$date": "2024-08-14T11:58:06.460Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e78831b20e65b2d29da"
+  },
+  "job_id": "05a107d57ce71797",
+  "company": "Brilyant IT Solutions",
+  "apply_link": "https://in.indeed.com/applystart?jk=05a107d57ce71797&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57p3vn7h63c892&spon=0&xkcb=SoDp67M39n6AIPQNiB0NbzkdCdPP&xfps=35c0d700-db71-4f29-a4b2-0e7c6f4bbc7b&sjdu=BQ1fOKU6SMjz57AxXCzG64DDplm6SwWjHcxyoDIphKmVGKxwXkOzf7Xf3QrcR3rIWI8-si1PSMjqXja2uXP95RCKwaoyo0L4IuVSGYRIejxVb3tkpoH7gqbPt_PJJ09tU7DYucCxSsTonEXPei-X0feV6RwePQUhk4LBgfVJBIXhzKJdgZA_rAyy9TyDVxJLw9_XINGINv7OnqX9-Wv1cg&vjfrom=vjs&asub=mob&astse=ca7b16b23b8c2af0&assa=7424",
+  "job_link": "https://in.indeed.com/rc/clk?jk=05a107d57ce71797&bb=f3ikUaCKKnx0hqRfaFS22LzD_MmuZgahfGNXyuGbGojhxCasG-HzLU8w0pTFtqmCAW4MfbZmQJbbPeJO8X_I72v-2Yir-SoesTBJAS-hjv-6i-acudL-Sl8JtumyGwPg&xkcb=SoDp67M39n6AIPQNiB0NbzkdCdPP&fccid=d3516e36d38c106c&vjs=3",
+  "job_posted": "02/08/2024",
+  "title": "Junior Web Developer",
+  "salary": "",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "Bengaluru, Karnataka",
+  "description": {
+    "Qualifications": [
+      "Experience with cloud services such as AWS, Azure, or Google Cloud."
+    ],
+    "Web Development": [
+      "Develop and maintain web applications using React and Node.js.",
+      "Migrate existing PHP-based features to the new stack.",
+      "Design and implement RESTful APIs with Node.js and Express.js.",
+      "Collaborate with design and backend teams to implement new features."
+    ],
+    "Optimization": [
+      "Optimize applications for maximum speed and scalability.",
+      "Ensure the technical feasibility of UI/UX designs."
+    ],
+    "Coding Standards": [
+      "Write clean, maintainable, and efficient code.",
+      "Conduct code reviews and provide constructive feedback.",
+      "Troubleshoot and debug applications."
+    ],
+    "Continuous Learning": [
+      "Stay updated with the latest industry trends and technologies."
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:08.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e79831b20e65b2d29db"
+  },
+  "job_id": "90ad6a0970000b5c",
+  "company": "Simplicity Global Services",
+  "apply_link": "https://in.indeed.com/applystart?jk=90ad6a0970000b5c&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57p3vn7h63c892&spon=0&xkcb=SoBd67M39n6AIPQNiB0MbzkdCdPP&xfps=e4d89c78-f628-4ce2-b911-b4c148575c6a&sjdu=BQ1fOKU6SMjz57AxXCzG64DDplm6SwWjHcxyoDIphKnu1DdYDgiE0eSPCRnccKO2oCwH8HCsF4r_Ke3TqmBkdqbcCFYU8gYI3P2DJiZ0lW7ZG8Io86McWA0CbCev6yNrLMg_hF_caXSv_yEJKf0KUR5oxgzL2XehPe420OdMxdggr5s449T3oLTx_TR3ouDBw9_XINGINv7OnqX9-Wv1cg&vjfrom=vjs&asub=mob&astse=8f82fef220b607f6&assa=8987",
+  "job_link": "https://in.indeed.com/rc/clk?jk=90ad6a0970000b5c&bb=f3ikUaCKKnx0hqRfaFS22LjUAa8R2UzL-ErSTjeItXI7Afz-QXhRuMgyNd66vFTJtc49mzftSIHZFcMGy6dT4PuUPJp7cnkeelp24-V0jsyMXdwk3bdBb8vnCx5NgUJG&xkcb=SoBd67M39n6AIPQNiB0MbzkdCdPP&fccid=da00e3c07b9d77a0&vjs=3",
+  "job_posted": "09/08/2024",
+  "title": "WEB DEVELOPER",
+  "salary": "",
+  "job_type": [
+    "Part-time",
+    "Full-time",
+    "Freelance"
+  ],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "Kolhapur, Maharashtra",
+  "description": {},
+  "created_at": {
+    "$date": "2024-08-14T11:58:09.560Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e7b831b20e65b2d29dc"
+  },
+  "job_id": "c20d0b2b9e112340",
+  "company": "KP Group",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=c20d0b2b9e112340&bb=f3ikUaCKKnx0hqRfaFS22JicuLsSrMV7MBkKjFBG4PQff9kQcTIVlfLJvlOWd2pj0By012sMyl4E3Cu06P9mA3bn8PCpb3zNAyh9YS8eOfF2bkWTbQYj5RwP9O6dP5DW&xkcb=SoC067M39n6AIPQNiB0DbzkdCdPP&fccid=08504244f94e293f&cmp=KP-Group&ti=Web+Developer&vjs=3",
+  "job_posted": "09/08/2024",
+  "title": "Web Developer",
+  "salary": "₹4,50,000 - ₹7,00,000 a year",
+  "job_type": [
+    "Full-time",
+    "Permanent"
+  ],
+  "shift_schedule": [
+    "Morning shift",
+    "Day shift"
+  ],
+  "benefits": "Food provided",
+  "location": "Bhatar, Surat, Gujarat",
+  "description": {
+    "Role & responsibilities ": [
+      "Develop, test, and maintain high-quality web applications using Core PHP and the CodeIgniter framework.",
+      "Design and manage databases, ensuring data integrity and optimization.",
+      "Optimize application performance, scalability, and security.",
+      "Integrate third-party services and APIs.",
+      "Deploy applications to live servers and manage version control systems.",
+      "Debug and troubleshoot application issues.",
+      "Write and execute unit tests and integration tests.",
+      "Collaborate with frontend developers, designers, and other stakeholders.",
+      "Provide ongoing maintenance and updates for existing applications.",
+      "Implement security best practices to protect applications from vulnerabilities.",
+      "Create and maintain technical documentation for code, APIs, and application features."
+    ],
+    "Preferred candidate profile ": [
+      "Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent experience).",
+      "Proven experience as a Web Developer with expertise in Core PHP and CodeIgniter.",
+      "Strong understanding of MVC architecture and OOP principles.",
+      "Proficient in HTML, CSS, JavaScript, and jQuery.",
+      "Experience with database management (MySQL, PostgreSQL).",
+      "Familiarity with version control systems (Git).",
+      "Strong problem-solving skills and attention to detail.",
+      "Excellent communication and teamwork skills.",
+      "Ability to manage multiple projects and meet deadlines."
+    ],
+    "Benefits": [
+      "Food provided",
+      "Health insurance",
+      "Provident Fund"
+    ],
+    "Supplemental Pay": [
+      "Yearly bonus"
+    ],
+    "Education": [
+      "Bachelor's (Required)"
+    ],
+    "Experience": [
+      "CSS: 1 year (Preferred)",
+      "total work: 1 year (Preferred)",
+      "HTML5: 1 year (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:11.522Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e7d831b20e65b2d29dd"
+  },
+  "job_id": "606e8d9661ad1276",
+  "company": "Uplers",
+  "apply_link": "https://in.indeed.com/applystart?jk=606e8d9661ad1276&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57p3vn7h63c892&spon=0&xkcb=SoAA67M39n6AIPQNiB0CbzkdCdPP&xfps=36cdb3ce-4d45-49f7-9127-8924a6b2b381&sjdu=BQ1fOKU6SMjz57AxXCzG64DDplm6SwWjHcxyoDIphKnBfpPkUIJol6MrjRtxPsWgSekWuO5U0UH-agAyhGp9b_8gGCmzIoJr8ky_Sz8KQhK-sqIfvFcEUydyAJYrOC2CEui3ZLS874yRhwNYrQkonlPVvWTA67FurBS9aX1YdLNFQBYez0ZKtSFfN7YXsxSmw9_XINGINv7OnqX9-Wv1cg&vjfrom=vjs&asub=mob&astse=3ef21bb52a28f89b&assa=2624",
+  "job_link": "https://in.indeed.com/rc/clk?jk=606e8d9661ad1276&bb=f3ikUaCKKnx0hqRfaFS22GpPCNmf8ayFst9_GmKrZfLdT4bfvhaF7ZO_g4j38EtOv28-cqC5rJAWfchA-O8l2FIfZBY-nrIO-jA-wdq61-otD1R1TB7j1m8FFqgzj-0m&xkcb=SoAA67M39n6AIPQNiB0CbzkdCdPP&fccid=0e2f08d304beb5b1&cmp=Uplers&ti=Full+Stack+Developer&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "Fullstack Developer - Mobile, Web and Backend Development",
+  "salary": "₹92,100 - ₹1,22,200 a month",
+  "job_type": [
+    "Permanent"
+  ],
+  "shift_schedule": [],
+  "benefits": "Work from home",
+  "location": "",
+  "description": {
+    "Roles & Responsibilities": [
+      "Building Great Products at Lightning Speed: Take pride in your work and craft the best products that really help get people into good habits with fitness. You’ll be on the front line, writing code that will be directly deployed to production in days, not weeks, and directly contributing to thousands of users’ lives.",
+      "Dynamic Collaboration: Engage deeply with our development team, focusing on maintaining and elevating the quality of our existing projects. Your role will involve close cooperation, bringing both insight and innovation into every task.",
+      "Uphold Quality Standards: Write clean, maintainable, testable code that can easily be refactored and extended as business requirements adapt."
+    ],
+    "Minimum Requirements": [
+      "Bachelor's degree in Computer Science, Engineering, or related field",
+      "Strong proficiency and comfort with writing in Typescript and ES6 syntax",
+      "1-3 years working experience.",
+      "Proficiency in English, both written and verbal",
+      "A working knowledge of coding best practices (e.g. separation of concerns)"
+    ],
+    "Must be Proficient with": [
+      "Mobile: Expo React Native mobile and associated packages (react navigation, redux, RTK query, react context)",
+      "Web: React web and associated packages/frameworks (Next.js, material UI, nivo charts)",
+      "Backend: Django, DRF, python (candidates who are excellent with mobile/web development, but don’t have backend experience are still encouraged to apply)",
+      "The ability to write readable, maintainable, testable code."
+    ],
+    "Bonus / Preferred Skills": [
+      "Experience with media-rich applications. Handling images (e.g. experience with a headless CMS, handling different asset sizes for user-generated content) and native video (e.g. uploading + compressing video files to display on devices via React Native)",
+      "Knowledge of Stripe for payment processing and subscription management",
+      "Experience working on consumer-facing apps or SaaS tools."
+    ],
+    "Required Characteristic": [
+      "Intelligence and ability to learn quickly",
+      "Not afraid to challenge seniors on decisions and improve existing working practices",
+      "An attitude of leaving things in a better state than they were found."
+    ],
+    "Preferred Characteristic": [
+      "Entrepreneurial spirit and interest in startups.",
+      "Interest in fitness or health-related applications."
+    ],
+    "Additional information": [
+      "Full-time remote position with a minimum of 42.5 hours per week.",
+      "Flexible daily working hours, ideally 9:30 AM - 6:00 PM UK time (2:00 PM - 10:30 PM India time).",
+      "Laptop will be provided."
+    ],
+    "How to apply for this opportunity": [
+      "Register or login on our portal & fill out the application",
+      "Clear the given AI Screening (30 min) and Click on ‘Apply’ to get shortlisted",
+      "Our team of talent matchmakers will matchmake you with the Hiring Partner",
+      "Crack a quick interview with our Hiring Partner",
+      "Land your global dream job and get your exciting career started!"
+    ],
+    "Benefits": [
+      "Work from home"
+    ],
+    "Location Type": [
+      "Remote"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:13.552Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e7f831b20e65b2d29de"
+  },
+  "job_id": "1afdf21661a7e98e",
+  "company": "Biterscode",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=1afdf21661a7e98e&bb=f3ikUaCKKnx0hqRfaFS22ODZuKNhmJfmlpMFG3FbIIm2t4tBQ4ESvBnvQmM3LL-ZYeYSg3PKJG6Cwmbtptee9JukQblGTiITu-JxWYKMg2ehZ5QgmXpVdGObT0JEXIUW&xkcb=SoCd67M39n6AIPQNiB0BbzkdCdPP&fccid=51a4c67ae43b2a32&cmp=BitersCode&ti=Web+Developer&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "Web Developer Intern",
+  "salary": "₹3,000 - ₹8,000 a month",
+  "job_type": [
+    "Full-time",
+    "Internship"
+  ],
+  "shift_schedule": [
+    "Morning shift",
+    "Rotational shift",
+    "Day shift"
+  ],
+  "benefits": "",
+  "location": "Mota Varachha, Surat, Gujarat",
+  "description": {
+    "Full job description": [
+      "We're hiring a React-based Shopify intern to help build and enhance Shopify stores while gaining valuable hands-on experience."
+    ],
+    "Key Responsibilities": [
+      "Assist in the day-to-day management of the Shopify store, including adding and updating products, descriptions, prices, and inventory.",
+      "Website handling and uploads",
+      "Help with the design and layout of the store, ensuring it is user-friendly and visually appealing.",
+      "Monitor site performance and provide recommendations for improvements.",
+      "Provide customer support and respond to inquiries related to the Shopify store.",
+      "Assist with order processing and fulfillment tasks as needed."
+    ],
+    "Qualifications": [
+      "Educational Background: Currently pursuing or recently completed a degree in Computer Science, Web Development, or a related field.",
+      "Technical Skills:",
+      "Proficiency in React.js and modern JavaScript (ES6+) or jQuery.",
+      "Understanding of HTML5, CSS3, Bootstrap and responsive design principles.",
+      "Experience: Previous experience or coursework involving React and/or Shopify is a plus, but not required.",
+      "Problem-Solving Skills: Strong analytical and problem-solving skills with attention to detail.",
+      "Communication: Excellent written and verbal communication skills; ability to work effectively in a collaborative team environment."
+    ],
+    "Qualification": [
+      "B.Tech, M.Tech, BCA, MCA, B.E, M.Sc IT, or any other relevant IT courses. All candidates with appropriate IT qualifications are encouraged to apply for this job."
+    ],
+    "Experience": [
+      "total work: 1 year (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:15.365Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e81831b20e65b2d29df"
+  },
+  "job_id": "bc0bbe645918bc83",
+  "company": "Gryphon Academy Pvt. Ltd.",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=bc0bbe645918bc83&bb=f3ikUaCKKnx0hqRfaFS22LfNvYcEgwKDkDYmez6QT4Tdn3ipgvj5n0Y1wU7zHJawqC_GL0BcfZIRlvFakLywzTbDy9ilfjZNlsF9UZWxmzlw1fqN3OwHvx5kRUDkEYXC&xkcb=SoAp67M39n6AIPQNiB0AbzkdCdPP&fccid=3235924bf599c558&cmp=Gryphon-Academy-Pvt.-Ltd.&ti=Web+Developer&vjs=3",
+  "job_posted": "09/08/2024",
+  "title": "Web Developer Intern",
+  "salary": "₹7,000 - ₹10,000 a month",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Day shift"
+  ],
+  "benefits": "",
+  "location": "Pune, Maharashtra",
+  "description": {
+    "Key Responsibilities": [
+      "Assist in Web Development: Contribute to the development of web applications and websites using HTML, CSS, JavaScript, and other relevant technologies.",
+      "Collaborate on Projects: Work closely with senior developers to implement features, debug issues, and refine user interfaces.",
+      "Maintain and Update Websites: Help with the regular maintenance of existing websites, including updates and troubleshooting.",
+      "Test and Debug: Participate in testing and debugging processes to ensure high-quality performance and user experience.",
+      "Documentation: Assist in documenting code, processes, and project requirements as needed.",
+      "Learn and Grow: Engage in learning opportunities, such as workshops or training sessions, to enhance your technical skills and understanding of industry best practices."
+    ],
+    "Qualifications": [
+      "Educational Background: Currently pursuing a degree in Computer Science, Web Development, or a related field. Equivalent practical experience may also be considered.",
+      "Experience: Some prior web development experience, including coursework, personal projects, or previous internships. Familiarity with HTML, CSS, and JavaScript is required.",
+      "Technical Skills: Knowledge of web development tools and frameworks (e.g., React, Angular, or Vue.js) is a plus. Basic understanding of version control systems like Git is beneficial.",
+      "Problem-Solving: Strong analytical and problem-solving skills with a keen attention to detail.",
+      "Communication: Good verbal and written communication skills; ability to articulate technical concepts clearly.",
+      "Team Player: Ability to work effectively in a collaborative team environment and willingness to learn from others."
+    ],
+    "What We Offer": [
+      "Hands-on Experience: Gain practical experience working on real-world projects and learn from industry professionals.",
+      "Mentorship: Receive guidance and support from experienced developers and team members.",
+      "Learning Opportunities: Access to workshops, training sessions, and resources to further your technical knowledge.",
+      "Networking: Build connections with professionals in the tech industry and expand your professional network."
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "CSS: 1 year (Required)",
+      "total work: 1 year (Preferred)",
+      "HTML5: 1 year (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:17.151Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e8c831b20e65b2d29e0"
+  },
+  "job_id": "b4f71bc6dbb46334",
+  "company": "Accenture",
+  "apply_link": "https://in.indeed.com/applystart?jk=b4f71bc6dbb46334&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57p3vn7h63c892&spon=0&xkcb=SoCn67M39n6AIPQNiB0HbzkdCdPP&xfps=7d7c5534-8117-49f8-8de3-620a1bb540b8&sjdu=BQ1fOKU6SMjz57AxXCzG64DDplm6SwWjHcxyoDIphKlFMl_6PNMgrKDnh2icTsGc7KSCdLmghl7QFSuCkqYipfz_fmEbb4N-GG2uqn6loOtETPI6lUZJZ4DudbRldm5-7HQwk9FO1vEhJ-6HwYdbF7FXppnbWgKV1vXoenGHwvvZNTqNfVrxr8-QPd_whL1Nw9_XINGINv7OnqX9-Wv1cg&vjfrom=vjs&asub=mob&astse=60d54d41c1c21f0b&assa=8038",
+  "job_link": "https://in.indeed.com/rc/clk?jk=b4f71bc6dbb46334&bb=f3ikUaCKKnx0hqRfaFS22NRJ8E26gE83-ZoYv3zhQjQsr6zhlwgH0R9pNboA0rEgUH0m3FROtuVuGfWfJwrBa7uia8Zx4dHugCmAqj2-SrhiLJEwPo020A%3D%3D&xkcb=SoCn67M39n6AIPQNiB0HbzkdCdPP&fccid=a4e4e2eaf26690c9&vjs=3",
+  "job_posted": "02/08/2024",
+  "title": "Web Developer",
+  "salary": "",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "Hyderabad, Telangana",
+  "description": "",
+  "created_at": {
+    "$date": "2024-08-14T11:58:28.733Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e8e831b20e65b2d29e1"
+  },
+  "job_id": "2d67edf68977eb26",
+  "company": "Corementors Private Limited",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=2d67edf68977eb26&bb=f3ikUaCKKnx0hqRfaFS22JmSGk8c2Av7p1Cfrhr5feW_zNBzguCN5SQd-GT5JcnqYuO43EkMd9YpJdGUbjnnaFvzfoCS6u14VBFkN9bIgtNIhbxRYK2n8bosI_B4ENSz&xkcb=SoAT67M39n6AIPQNiB0GbzkdCdPP&fccid=6ae35699c7f997a8&cmp=Corementors-Private-Limited&ti=Web+Developer&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "Web Developer",
+  "salary": "₹10,000.00 - ₹46,410.18 a month",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Day shift"
+  ],
+  "benefits": "",
+  "location": "Vadodara, Gujarat",
+  "description": {
+    "Supplemental Pay": [
+      "Performance bonus"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "CSS: 1 year (Preferred)",
+      "total work: 1 year (Preferred)",
+      "HTML5: 1 year (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:30.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e90831b20e65b2d29e2"
+  },
+  "job_id": "2207b1bc3d0bfccf",
+  "company": "Blackbelt Smartphone Defence",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=2207b1bc3d0bfccf&bb=f3ikUaCKKnx0hqRfaFS22My3khX5GKPjztXN9qJYlHvre-XBqtEVzh_haO4ewEyK7dky8jaYoYzfKkrRYRCz1aujCjKG-EffeYr7FOnlsbaTdhgs-50O9q4aGiH8APzQ&xkcb=SoCO67M39n6AIPQNiB0FbzkdCdPP&fccid=7c2d717cdd6d1c81&cmp=nais-on-the-mall&ti=Senior+Web+Developer&vjs=3",
+  "job_posted": "14/08/2024",
+  "title": "Senior Web Developer",
+  "salary": "₹6,00,000 - ₹12,00,000 a year",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Morning shift",
+    "Monday to Friday"
+  ],
+  "benefits": "Flexible schedule",
+  "location": "Guindy Industrial Estate, Chennai, Tamil Nadu",
+  "description": {
+    "Key Responsibilities": [
+      "Web Development: Design, code, and modify websites from layout to function according to specifications, creating visually appealing sites that feature user-friendly design and clear navigation.",
+      "Feature Implementation: Develop and implement new features and user interfaces from wireframe models or design prototypes.",
+      "Performance Optimization: Ensure the technical feasibility of UI/UX designs and optimize applications for maximum speed and scalability.",
+      "Quality Assurance: Test the website and identify any technical problems and hitches, ensuring the coding standards are met and addressing any compatibility issues.",
+      "Collaboration: Collaborate with team members, including web designers and project managers, to ensure projects meet specifications and deadlines.",
+      "Continuous Improvement: Stay abreast of developments in web applications and programming languages. Continually learn and apply relevant technologies and best practices in web development."
+    ],
+    "Skills and Qualifications": [
+      "Technical Proficiency: Minimum 5years of experience in full-stack web development. Should have strong knowledge in Core PHP, PHP Laravel Framework, MySQL, HTML5, CSS3, Bootstrap5.X"
+    ],
+    "Preferred Qualifications": [
+      "Experience with Git or other version control systems.",
+      "Familiarity with RESTful APIs and JSON.",
+      "Experience with cloud computing services (e.g., AWS, Azure) is desirable.",
+      "Knowledge of SEO principles and ensuring that applications will adhere to them."
+    ],
+    "What We Offer": [
+      "A competitive salary and comprehensive benefits package.",
+      "A collaborative, supportive, and dynamic work environment.",
+      "Opportunities for ongoing training and professional development.",
+      "Flexible work hours."
+    ],
+    "Location Type": [
+      "In-person"
+    ],
+    "Ability to commute/relocate": [
+      "Guindy Industrial Estate, Chennai: Reliably commute or planning to relocate before starting work (Preferred)"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "total work: 5 years (Required)",
+      "Full-stack development: 5 years (Required)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:32.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e9a831b20e65b2d29e4"
+  },
+  "job_id": "c5f796d4f55c4791",
+  "company": "S.M. Scientific Instruments (P) Ltd.",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0C3lKniqAGsEt7d2io2YB-V0TolzuZWuiM4AI9yN8QUXIR9ae5HWesky5vkXKmwgdyOmzooWO_-uUx9LLdFhpdlQohzOHHYcm2qs1uouwTJboagcoBq9IYs7JL-8myTJoRxUiyJ87j6zalz0JlOEODmh9cOWiCbYjVMqfHAMrsrGbzBwyFQ32pm-s8h4vHU6Fh6A1z3R1ZMKMsK8wi3P1tBmaF-Ah15A6GQ6phaOb7h6G6zgqSkjj0iF_x9Hz9wUQj4CJRe2mSrhqaa9fHzhGV2DiyLVmPkcNRUFd6uGf4DO19cdO8aSIk72GBX89W3oYHxSxLgvVm2LgfTiS1nsusFzjkhDZoEnPhJbStwdFe3qIV-eWwg389RGlHhUwpg9Cr5quvW7Y9SEMQKYB_MmS3HW43wJlCBt8TRmG1y_MUJ4f-RSPkjQO51seCxFv_TYJvmJbJ1-b30qJixUhEWcubOoDYjWia8heN8oLFx4BxEWSskgY1Nwtofnr3qGp2NN2mhTnYcOPBVoCws9PHoG-IZHrgVjGOMRk_LUfzqBOVg1_CkVEqLjRmANDvPh1hu2NaSaGk-6BkKjD2GKg_JufpnvVF63yoV4mnmoBDuTl4Ei_a7NihVvfDkWr8XGpp1FONAvVaZ477p8Q==&xkcb=SoD86_M39n6Y4YS2tp0KbzkdCdPP&camk=nUmJqO2E8rhBQ_v4zw525g==&p=1&fvj=1&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "Graphic & Web Designer",
+  "salary": "₹12,000 - ₹20,000 a month",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "Anand Vihar, Delhi, Delhi",
+  "description": {
+    "Job Description": [
+      "Should be able to upload new product data and images on already developed WordPress website",
+      "Write and edit product descriptions, titles, and features",
+      "Ensuring product information is accurate and optimized for search and customer experience",
+      "Configuring product attributes, categories, and other settings",
+      "Maintaining and updating the product catalogue on an ongoing basis",
+      "Optimize content with keywords for improved search visibility",
+      "Should have knowledge of WordPress",
+      "Performing Keyword Research, Competitor Research, and Market Research for each product",
+      "Detail-oriented and able to meet deadlines",
+      "Should be able to crop and edit images on Canva and or other software",
+      "Should be able to create posts for social media",
+      "Should be able to make brochures and flyers"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "CSS: 1 year (Preferred)",
+      "total work: 1 year (Preferred)",
+      "Design: 1 year (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:42.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e9c831b20e65b2d29e5"
+  },
+  "job_id": "5b43090748e804bd",
+  "company": "Ture North Management inc",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0A5XIGzaUpVvNPrFmKmMV3wrjsSUiEf3xmak87m3qsSo2HKah2Q4t2dpZNq9Aa6hdoSYf4almXsS_qOA8TUBwfFqE-NfUV5gUvX-aFopOa2LqBkNrDM1YBf5YT5x8JVklJ3TBVA4oSvIHxnSbKVNTvlXL5GgCX3e0lyie-fZpJdY652RhUjh-ZTLXFmEuTMkcHL1gFUn_HPeAKuwgeHC6-adynjbbw0MNDEIuBgH4-zr03L972jj23_Y1xB_NZ57j2hNNSDAcrnAWK6S1DvC0TuxsZYCjPh3XpNqKgPwOSs312TOOtdMisetoBtVhCglpcT1csKq0WRrSqANzkqtM4NwLMdBuO8092HeJYq0tlPw3lXjzECDOh6IOwgCSvV12RxL0f2tTYONUeDDJT3XCYAm7vMy5HjGHcxizSnZHCCwhwb41wmhZWrEhkJpbcB9Iozgn97EfP_PK7vk1TtuyCSfaDP8YsO3Q6P_yJlBGABMJF-FWqs7iTFZJxWdL9vI_jC61_ZYp3iNSAg5kqud5fZfNaposu1FDjAsFnmjEq1Yn12niWXlOnSbeCXZsRCc3F4OjHhSDktuu0I2BtGmW974aZmxOsF4Vm9l4vYLy12u8t3e7ydZGmOw8c6Hgb5D_rFTOKzQHVnWQ==&xkcb=SoBh6_M39n6Y4YS2tp0JbzkdCdPP&camk=4HOcmqOLYrAyVDvyNXuaJg==&p=2&fvj=1&vjs=3",
+  "job_posted": "09/08/2024",
+  "title": "PHP Laravel Developer",
+  "salary": "₹6,00,000 - ₹9,00,000 a year",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Monday to Friday"
+  ],
+  "benefits": "Work from home",
+  "location": "Remote",
+  "description": {
+    "Responsibilities": [
+      "Write clean, well-designed, and efficient code using PHP and Laravel frameworks.",
+      "Develop and maintain web applications and APIs.",
+      "Design and implement database structures and complex queries using SQL.",
+      "Write unit test cases and perform functional testing of web applications.",
+      "Work collaboratively with cross-functional teams to identify and prioritize software bugs and issues.",
+      "Participate in code reviews to maintain code quality standards.",
+      "Monitor and troubleshoot issues with web applications and provide timely resolution.",
+      "Work out of hours, when appropriate, to support major implementations or to react to high priority service issues.",
+      "Maintain technical documentation for web applications and APIs.",
+      "Stay up-to-date with emerging trends and technologies in web development."
+    ],
+    "Requirements": [
+      "At least 6 years of experience with PHP and Laravel development.",
+      "Strong knowledge of API development.",
+      "Experience with query design and understanding of SQL query performance.",
+      "Experience with Eloquent or any other ORM tool with PHP.",
+      "Experience with tools such as Jira/Bitbucket DevOps is an advantage.",
+      "Good knowledge of Wordpress development.",
+      "Experience working with Node JS and Sockets is an advantage.",
+      "Experience working with large-scale or rapidly growing web applications.",
+      "Strong background in web application development.",
+      "Must have a track record of successful product launches.",
+      "Computer Science or Engineering education background."
+    ],
+    "Benefits": [
+      "Work from home"
+    ],
+    "Location Type": [
+      "In-person"
+    ],
+    "Education": [
+      "Diploma (Preferred)"
+    ],
+    "Experience": [
+      "Javascript: 5 years (Required)",
+      "PHP: 5 years (Required)",
+      "Wordpress: 2 years (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:44.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e9d831b20e65b2d29e6"
+  },
+  "job_id": "b8a79bb79f83eea9",
+  "company": "Madhav Technologies Pvt. Ltd",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=b8a79bb79f83eea9&bb=Ut7t_Lgif0qFMrLlFnlHeu4zaOD86hdmjFTHwsy-Iv9Oi1cnq9AYsbvdupwXigk_ZisHfWyzsB2nIbaP8PMhQoFFlCJoZcQzVw1iRJMHj7WjxGGcg-FuOLKwUnXh-Ndk&xkcb=SoAh67M39n6Y4YS2tp0IbzkdCdPP&fccid=94ffdc43a918b667&cmp=Madhav-Technologies&ti=Front+End+Developer&vjs=3",
+  "job_posted": "09/08/2024",
+  "title": "Web Designer Front End Developer",
+  "salary": "From ₹30,000 a month",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Day shift",
+    "Monday to Friday"
+  ],
+  "benefits": "",
+  "location": "Surat, Gujarat",
+  "description": {
+    "Responsibilities": [
+      "Develop and maintain frontend applications using HTML, CSS, and JavaScript.",
+      "Implement responsive designs and ensure cross-browser compatibility.",
+      "Work with Tailwind CSS for styling.",
+      "Collaborate with backend developers to integrate user-facing elements.",
+      "Ensure high performance and responsiveness of applications."
+    ],
+    "Requirements": [
+      "Proven experience with HTML, CSS, and JavaScript.",
+      "Experience with Tailwind CSS is highly preferred.",
+      "Familiarity with plain JavaScript and basic frontend frameworks.",
+      "Understanding of frontend performance optimization techniques.",
+      "Excellent problem-solving skills and attention to detail.",
+      "Good communication skills and ability to work in a team environment."
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:45.737Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4e9f831b20e65b2d29e7"
+  },
+  "job_id": "6eb3bf57e29c92b3",
+  "company": "Digital Dost AJ LLP",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=6eb3bf57e29c92b3&bb=Ut7t_Lgif0qFMrLlFnlHepQB7rxzIdF08BQWiK2WqgPIO9nU0VwGfmB2k0l3G0HUGUjxxAzgLVmwsT56oU-yoeH3gIW7SUTGevC046VVlhSdCuAC5tD3WnPChm5Fjdej&xkcb=SoCv67M39n6Y4YS2tp0PbzkdCdPP&fccid=1ac98a8b30bd9c52&cmp=Digital-Dost-AJ-LLP&ti=Full+Stack+Developer&vjs=3",
+  "job_posted": "14/08/2024",
+  "title": "Full Stack Developer Internship",
+  "salary": "₹1,000 a month",
+  "job_type": [
+    "Internship"
+  ],
+  "shift_schedule": [
+    "Monday to Friday"
+  ],
+  "benefits": "Work from home",
+  "location": "",
+  "description": {
+    "Benefits": [
+      "Work from home"
+    ],
+    "Location Type": [
+      "Remote"
+    ],
+    "Education": [
+      "Bachelor's (Required)"
+    ],
+    "Experience": [
+      "Angular: 1 year (Preferred)",
+      "total work: 1 year (Preferred)",
+      "Java: 1 year (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:47.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4ea1831b20e65b2d29e8"
+  },
+  "job_id": "7819aa9b04b7e75f",
+  "company": "sprybit softlabs",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=7819aa9b04b7e75f&bb=Ut7t_Lgif0qFMrLlFnlHeld367VTu9CqKbQL7PWE8yA_8_3eyBdQOpF8HwcRKlhovz6Tp3aqLIhrkg9w7D3NUmgHwAqqA6Z_neDNV2z4MIwEi0hRd_h4D5meXu8xUJf5&xkcb=SoAb67M39n6Y4YS2tp0ObzkdCdPP&fccid=b23b075e85fd0048&cmp=sprybit-softlabs&ti=Web+Developer&vjs=3",
+  "job_posted": "09/08/2024",
+  "title": "HTML Developer",
+  "salary": "₹30,000 - ₹50,000 a month",
+  "job_type": [
+    "Full-time",
+    "Permanent"
+  ],
+  "shift_schedule": [
+    "Day shift"
+  ],
+  "benefits": "",
+  "location": "Ahmedabad, Gujarat",
+  "description": {
+    "Responsibilities": [
+      "Meeting with Web designers to discuss project design and layout.",
+      "Coding the entire HTML site from end to end.",
+      "Debugging code and front-end web applications.",
+      "Ensuring cross-platform compatibility.",
+      "Troubleshooting application errors.",
+      "Conducting website performance and usability tests.",
+      "Meeting publication deadlines.",
+      "Providing user support."
+    ],
+    "Education": [
+      "Diploma (Preferred)"
+    ],
+    "Experience": [
+      "total work: 4 years (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:49.011Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4ea2831b20e65b2d29e9"
+  },
+  "job_id": "84f8862018cd4eaf",
+  "company": "Uplers",
+  "apply_link": "https://in.indeed.com/applystart?jk=84f8862018cd4eaf&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57p5plsjhrs800&spon=0&xkcb=SoCG67M39n6Y4YS2tp0NbzkdCdPP&xfps=65f2f996-7e06-4196-8c2d-28e1c859ebcd&sjdu=BQ1fOKU6SMjz57AxXCzG64DDplm6SwWjHcxyoDIphKm2l6qRBPYbL2U-Hl8WI9rEEA3Qri68TnBx_JP32AEgLmWD-jpr6VAO8jXAqdAnM6xNZ1-OlskuCCqsB8GB9gQOrEK01sH0p5H1EhLZP7RPhyIhDs35fMpxnDhRekA7r8wHxPxrgMS_QHQFq-1Fl5wNw9_XINGINv7OnqX9-Wv1cg&vjfrom=vjs&asub=mob&astse=9671abcc3400c962&assa=9951",
+  "job_link": "https://in.indeed.com/rc/clk?jk=84f8862018cd4eaf&bb=Ut7t_Lgif0qFMrLlFnlHelIaZX-k7lD1_pYHzQMwGkdvmKpCB3ZaVEkuWjDsT8d2B78B09ByE61Ms8doc-KTwM0Y2INRxsvsGGNvsSoEkDh0qvrwFjLkS25NfV0ZxgWE&xkcb=SoCG67M39n6Y4YS2tp0NbzkdCdPP&fccid=0e2f08d304beb5b1&cmp=Uplers&ti=Front+End+Developer&vjs=3",
+  "job_posted": "13/08/2024",
+  "title": "Front End Developer",
+  "salary": "",
+  "job_type": [
+    "Permanent"
+  ],
+  "shift_schedule": [],
+  "benefits": "Paid time off",
+  "location": "",
+  "description": {
+    "Key Responsibilit": [
+      "DevOps and CI/CD: Manage and optimize CI/CD pipelines using GitHub and other tools.",
+      "Infrastructure as Code: Create and maintain Terraform scripts to build infrastructure as a service.",
+      "Integration: Leverage strong integration skills, particularly with BizTalk, to support various projects.",
+      "Azure Integration: Utilize basic knowledge of Azure Integration, including connecting and managing components.",
+      "Coding: Apply knowledge of Git and Python coding platforms as needed.",
+      "Documentation: Articulate and document processes and solutions effectively.",
+      "Adaptability: Be willing to take on roles in trading grid and POC projects if Azure work is minimal.",
+      "Collaboration: Work closely with team members, to ensure seamless integration and project success."
+    ],
+    "Requirement ": [
+      "Proficiency in GitHub and CI/CD processes.",
+      "Strong integration background [BizTalk]",
+      "Basic knowledge of Azure Integration and connecting components.",
+      "Experience with Terraform and infrastructure as code.",
+      "Knowledge of Git and Python coding platforms is an advantage.",
+      "Excellent communication and documentation skills."
+    ],
+    "Relevant Technologies": [
+      "DevOps Tools: GitHub, Jenkins, Terraform, Docker, Kubernetes",
+      "Integration Tools: BizTalk, MuleSoft",
+      "Cloud Platforms: Azure, AWS [ willingness to learn quickly]",
+      "Programming Languages: Python, Java, C# or any other programming language with strong concepts.",
+      "CI/CD Tools: Jenkins, GitLab CI, Azure DevOps"
+    ],
+    "Engagement Type": [
+      "Payroll and Compliance to be managed by: Soho Dragon",
+      "Job Type : Direct Hire with Soho Dragon(Talent will be working on Soho Dragon’s end client)",
+      "Location: Remote",
+      "Openness to visit office once in a while - company will sponsor - stay and travel"
+    ],
+    "Interview Proces": [
+      "2 tech and 2 managerial interview(include’s end client round)"
+    ],
+    "Other Details ": [
+      "Device - Talent will receive laptop from Soho",
+      "Leave policy: 18 Paid leave in a year, 2 restricted holiday, 9 public holiday",
+      "Health Insurance: Covered for employees, spouses and upto 2 kids."
+    ],
+    "How to apply for this opportunity": [
+      "Register or login on our portal",
+      "Click 'Apply,' upload your resume and fill in the required details.",
+      "Click 'Start Screening,' and clear the mandatory 30-minute video screening",
+      "Get matched and crack a quick interview with our hiring partner.",
+      "Land your global dream job and get your exciting career started!"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:50.924Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4ea4831b20e65b2d29ea"
+  },
+  "job_id": "7f27942e494f27f6",
+  "company": "daydreamsoft.com",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=7f27942e494f27f6&bb=Ut7t_Lgif0qFMrLlFnlHeh-mEKNhtNxkhJz3QPG3nSTkjMV4Ekqce2YdepYza9UAhV83xWLP2bwWuyLunG-zNMZXwJgSbKCLKdb4M4XFYNVLb6v1RFWlx_ndn8pG4C-9&xkcb=SoAy67M39n6Y4YS2tp0MbzkdCdPP&fccid=acefd5d74a35a0a2&cmp=daydreamsoft.com&ti=Web+Designer&vjs=3",
+  "job_posted": "14/08/2024",
+  "title": "Web Designer",
+  "salary": "₹9,415 - ₹29,525 a month",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Day shift"
+  ],
+  "benefits": "",
+  "location": "Adajan, Surat, Gujarat",
+  "description": {
+    "Job Responsibilities": [
+      "Create and manage core experiential design concepts as per project requirements",
+      "Turn visions into concepts, and translate those concepts into recommendations that achieve simplicity,",
+      "Produce best in class UX/UI deliverables including wire frames, storyboards, user flows, prototypes, process flows, logo designs, app icons, etc",
+      "Develop visual designs for websites, e mails, Brochure and mobile applications",
+      "Engage in the development process from definition through design, build, test, release, and maintenance",
+      "Research and track advancements in web and mobile application design patterns"
+    ],
+    "Siklls": [
+      "Solid experience in creating wire frames, storyboards, user flows, process flows and site maps",
+      "Proficiency in Photoshop, Illustrator or other visual design and wire-framing tools",
+      "Strong Communication & Presentation skills with the ability to listen to, and build rapport with clients Knowledge of HTML, CSS and JavaScript frameworks",
+      "Good at teamwork Should be fluent in English"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:52.490Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4ea6831b20e65b2d29eb"
+  },
+  "job_id": "8ad82c10cb7fc6e1",
+  "company": "Proyouth.in",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=8ad82c10cb7fc6e1&bb=Ut7t_Lgif0qFMrLlFnlHemGDdXUfu_KSUfaeB0K9qLw_lMZnaiSyhnVfz771ZDfdKV0p2d251DTuDieNLyFID3t5wbb1noWWqLuuG3kJgb1fwXx27F1tWCpopwyBYyrc&xkcb=SoDb67M39n6Y4YS2tp0DbzkdCdPP&fccid=7ba91192c7ccd4b7&cmp=Proyouth.in&ti=Full+Stack+Developer&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "Full Stack Web Developer",
+  "salary": "Up to ₹50,000 a month",
+  "job_type": [
+    "Full-time",
+    "Contract",
+    "Permanent"
+  ],
+  "shift_schedule": [
+    "Monday to Friday"
+  ],
+  "benefits": "Work from home",
+  "location": "",
+  "description": {
+    "Candidate Have to do": [
+      "3 to 4 batches over gmeet or zoom",
+      "take interviews and select candidates for mock tests.",
+      "Help users to understand concepts better in chosen time.",
+      "Designing curriculum, marksheet."
+    ],
+    "Benefits": [
+      "Work from home"
+    ],
+    "Education": [
+      "Bachelor's (Required)"
+    ],
+    "Experience": [
+      "CSS: 2 years (Required)",
+      "total work: 2 years (Required)",
+      "HTML5: 2 years (Required)"
+    ],
+    "Language": [
+      "English (Required)",
+      "Hindi (Required)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:54.194Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4ea7831b20e65b2d29ec"
+  },
+  "job_id": "ebaf203cff137a08",
+  "company": "RISE IT DIGITAL LLP",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=ebaf203cff137a08&bb=Ut7t_Lgif0qFMrLlFnlHevmUkslKJVxoZxgMKZimAY2RfMlkY-4T8rOaZA8sHn9SdoObXGBPqQ-hCC8thj_s1BjozAlq8IGQbHFMmcSj7RlC6rw5tDAtNgBto9HFLpBo&xkcb=SoBv67M39n6Y4YS2tp0CbzkdCdPP&fccid=e634ade54be8c815&cmp=RISE-IT-DIGITAL-LLP&ti=Front+End+Developer&vjs=3",
+  "job_posted": "08/08/2024",
+  "title": "Frontend Developer",
+  "salary": "₹50,000 - ₹2,00,000 a month",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Day shift",
+    "Monday to Friday"
+  ],
+  "benefits": "",
+  "location": "Andheri, Mumbai, Maharashtra",
+  "description": {
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "JavaScript: 1 year (Preferred)",
+      "CSS: 1 year (Preferred)",
+      "HTML: 1 year (Preferred)",
+      "React JS: 1 year (Preferred)",
+      "VueJS: 1 year (Preferred)",
+      "Tailwind: 1 year (Preferred)",
+      "Python: 1 year (Preferred)",
+      "NodeJS: 1 year (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:55.817Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4ea9831b20e65b2d29ed"
+  },
+  "job_id": "c0a9f826798cd1d5",
+  "company": "DC DESIGN",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=c0a9f826798cd1d5&bb=Ut7t_Lgif0qFMrLlFnlHeufnTeroMYg0-fK7OMS2SO29D3YUx7Ojm6L0Y78yfLTe6lfCVdeSVpjsrapjvlOlfCwG0GhQbWTT70CwNFK_5hxdo_8IDCST4C8cdXhpQRqa&xkcb=SoDy67M39n6Y4YS2tp0BbzkdCdPP&fccid=fe3086f92ce3406d&cmp=DC-Design-Pvt-Ltd&ti=Developer&vjs=3",
+  "job_posted": "08/08/2024",
+  "title": "Shopify Developer",
+  "salary": "₹25,000 - ₹50,000 a month",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "Varachha, Surat, Gujarat",
+  "description": {},
+  "created_at": {
+    "$date": "2024-08-14T11:58:57.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4eab831b20e65b2d29ee"
+  },
+  "job_id": "4ebb638cde626143",
+  "company": "NotHuman.ai",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=4ebb638cde626143&bb=Ut7t_Lgif0qFMrLlFnlHekpTySvr2BByeQodvc3kjg7_1nS7mKPYJRtx48R27iqU_eOnLL8s-VkJ_NhcO6OW_qkJtwg9BUWVXKskMOMXIgk509tyLoKvABm8_FJgnhkE&xkcb=SoBG67M39n6Y4YS2tp0AbzkdCdPP&fccid=73def8862b3b194f&cmp=NotHuman.ai&ti=Developer&vjs=3",
+  "job_posted": "03/08/2024",
+  "title": "Shopify Developer Intern",
+  "salary": "₹15,000 - ₹20,000 a month",
+  "job_type": [
+    "Temporary",
+    "Internship"
+  ],
+  "shift_schedule": [],
+  "benefits": "Flexible schedule",
+  "location": "",
+  "description": {
+    "Key Responsibilitie": [
+      "Convert mock-ups and design concepts into functional and responsive Shopify websites.",
+      "Customize Shopify themes and templates to align with brand guidelines and improve UI/UX design.",
+      "Develop and integrate third-party applications and plugins to enhance store functionalities.",
+      "Ensure seamless navigation, efficient checkout operations, and integration with payment gateways.",
+      "Optimize website performance by improving page speed, time to interact, and minimizing bounce rate.",
+      "Collaborate with internal teams to understand business requirements and translate them into technical solutions.",
+      "Troubleshoot and resolve execution and design challenges to maintain the smooth functioning of Shopify stores.",
+      "Stay updated with the latest trends and best practices in Shopify development to propose innovative solutions and improvements."
+    ],
+    "Key Requirements": [
+      "Proficient in HTML, CSS, and JavaScript to build responsive and interactive front-end interfaces for Shopify websites.",
+      "Strong knowledge of Shopify's platform is a must.",
+      "Proficiency in Wordpress is preferred but not necessarily mandatory.",
+      "Familiarity with Liquid language, jQuery, AJAX, and Bootstrap for custom development and theme customization.",
+      "Experience in creating and customizing Shopify apps and accounts to extend store functionalities.",
+      "Understanding of UI design principles and the ability to create visually appealing and user-friendly interfaces.",
+      "Knowledge of SEO best practices and the ability to optimize Shopify websites for search engine visibility.",
+      "Excellent problem-solving skills and the ability to troubleshoot and resolve technical issues efficiently.",
+      "Strong attention to detail and a passion for delivering high-quality work within deadlines.",
+      "Effective communication, proactiveness and collaboration skills to work with cross-functional teams and stakeholders.",
+      "Candidates should have a robust portfolio showcasing a range of projects on Shopify itself(atleast 3 projects)"
+    ],
+    "Additional Information": [
+      "This is a remote opportunity for applicants who are available for 3 months.",
+      "There are no degree specifications for this role, applications are welcome from anyone who has the above skills and can meet our requirements."
+    ],
+    "Benefits": [
+      "Flexible schedule",
+      "Work from home"
+    ],
+    "Location Type": [
+      "Remote"
+    ],
+    "Application Question(s)": [
+      "We need to fill this position urgently. Are you available to join immediately?"
+    ],
+    "Experience": [
+      "Shopify: 1 year (Required)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T11:58:59.067Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4eb6831b20e65b2d29ef"
+  },
+  "job_id": "ed65f9b46c3f1947",
+  "company": "Karishma Marine Solutions Pvt Ltd",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=ed65f9b46c3f1947&bb=Ut7t_Lgif0qFMrLlFnlHegZnaJPOjGdd0zmnvmsFYX9cawZDMDC2gea6Vpu9vR4xY91o_iIxL1BJSGt8XgTmL9p3NPsHpvrHmCHKDuGME86oMMOOSTjKvVVfKO5IJMU1&xkcb=SoDI67M39n6Y4YS2tp0HbzkdCdPP&fccid=a2f6c0bf4cca082c&cmp=KARCO&ti=Web+Developer&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "",
+  "salary": "",
+  "job_type": [],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "",
+  "description": "",
+  "created_at": {
+    "$date": "2024-08-14T11:59:10.652Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4ef68a49bd2dd338144a"
+  },
+  "job_id": "7c900f241c6d82f6",
+  "company": "Citi",
+  "apply_link": "https://in.indeed.com/applystart?jk=7c900f241c6d82f6&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57p8ooujtgu84o&spon=1&adid=434148547&xkcb=SoBJ6_M39n6sxm2XYR0JbzkdCdPP&xfps=d222bbc1-0a93-481c-9d29-89d64603dd4c&sjdu=QWF4TUFyrHvH7u082A4fa7XWk9iITw0Zava5hipyXZ8&vjfrom=vjs&asub=mob&astse=65c7b78079c07da8&assa=3909",
+  "job_link": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B7UYL49yWBrrOlEWIsfJu1HwdoffaEv3MPqVgUrdyA2qMbzaTDeTJm3-bSMgRnHx9RQnXkW71GLBi8cZ-vjZVSx8Fz2PB9BVo3ywddl6sO1LeV4nu6l8n9TOxdQ9oPHWwMfFmdLHJAVTVWbzhwtjjdsnejOHOpMtTz-Lh1RBHU5wM327zAlhQzfsKE1O4NSE1mjgk462EeZUMSDmkOGnpLuq9n8vJ0WrUCz_vCjDiZBNI5Plsw0nIzY78c1b1VHkPMxB_VOlTUCtpSfU4K5nxMqrLrzamDOAkYUhj5mtN86BKmdokLBBNJRgWkt4OjQW8uC9CrY41minSiiIxOAuaq3NaNeBkYjxgAjQJ0sXmBDId7_0Kk1u0zeRyGKXKSd26i6qzSY6k0Is56nXJQPYWCYymEHxmU9SwqXVifibXS6NKXqXQHyDesO9Iq9Z8R8owZRDubiu_xZJ4IKIRteReJi28FlAmv8JmpEDzFBtxdj0takyTX88_xdSikb01iWBCRDZgXY_seE-maaNUlQiAoChWjVjqZjbgOqkDSNDzD3NvCd4ialqwo8UQQzR0RLnbIi6Q16TbJ8VeXl8GQ3rmwFv6Sv689OqwKpl1DtMRTGSjGGh3YYLxgh-662IDqHmTu-ReDrqCO-0N9Q8WlgnwYP_bumGNYbJjNnAfPwJy12voO7brVxuIPlnDqGA5txDiBbdZbVoq5z1VZ5GZoiGNSmZr-H-hz96VlZbvsK04wYoXCAadH5CFF9R7zmIZsRpzE_CvTi1iIzxRIjMO2omrf1HrghXX00KbKEukWcE9QtA==&xkcb=SoBJ6_M39n6sxm2XYR0JbzkdCdPP&camk=nUmJqO2E8rhNetMF0gGvgQ==&p=2&fvj=0&vjs=3",
+  "job_posted": "02/08/2024",
+  "title": "Global Controller Technology- Developer - Appian - Pune - Officer/C11",
+  "salary": "",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "Pune, Maharashtra",
+  "description": {},
+  "created_at": {
+    "$date": "2024-08-14T12:00:14.614Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4efd8a49bd2dd338144b"
+  },
+  "job_id": "c827966cfbd86048",
+  "company": "Bright Ads Digital India Pvt Ltd",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=c827966cfbd86048&bb=quDTS4QF9X1KV8IAbyARlZAYLLGiXLVv7pnLYHp8XyvZFANE3EoQkOVYDA6mKr_P8KJew3NXgrsDI_WJ_Ba7j-GGSYlbkwP9TiskTKsAdtL_m-unVfVCVhvcQYbV00sM&xkcb=SoD267M39n6sZ429mR0JbzkdCdPP&fccid=ad080d13b2811a09&cmp=Bright-Ads-Digital-India-Pvt-Ltd&ti=Web+Developer&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "Web Developer",
+  "salary": "₹10,000 - ₹12,000 a month",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Morning shift",
+    "Day shift",
+    "Monday to Friday"
+  ],
+  "benefits": "",
+  "location": "Sanjay Nagar, Bengaluru, Karnataka",
+  "description": {
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "CSS: 1 year (Preferred)",
+      "total work: 1 year (Preferred)",
+      "HTML5: 1 year (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:00:21.516Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4efe8a49bd2dd338144c"
+  },
+  "job_id": "191e16ea1ccc83ea",
+  "company": "ellifi",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=191e16ea1ccc83ea&bb=quDTS4QF9X1KV8IAbyARlZv5M3BWh-Kd5sgAhJ-3IPtvrPJ54NngcEHUCkfYPoUiNojHIvdG0fAzO1pmK34ihKk49mEki495RD6HxLJZ2mu_Qk4pe9U7bYZHlcr0ye_G&xkcb=SoBC67M39n6sZ429mR0IbzkdCdPP&fccid=e562d9a10ccb113e&cmp=ellifi&ti=Web+Developer&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "Web Developer Intern (Female)",
+  "salary": "",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Day shift"
+  ],
+  "benefits": "",
+  "location": "Vesu Village, Surat, Gujarat",
+  "description": {
+    "Location Type": [
+      "In-person"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:00:22.990Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f008a49bd2dd338144d"
+  },
+  "job_id": "433cbea6b5ae0cbe",
+  "company": "Abmec Info Services",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=433cbea6b5ae0cbe&bb=quDTS4QF9X1KV8IAbyARlTyT1UUtOhFt0hDSJLgVTbZQ1cZmIMAuO-zUPY8LXfEo7BEcJLDoCngoSN21PkYcd8R4MUrphuhp0gL6deZqmFTbzeTgNxG0L-uRFJi51EAY&xkcb=SoDM67M39n6sZ429mR0PbzkdCdPP&fccid=9db9f499d9c7106e&cmp=Abmec-Info-Services&ti=Developer&vjs=3",
+  "job_posted": "14/08/2024",
+  "title": "ReactJS Developer",
+  "salary": "₹20,000 - ₹50,000 a month",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Day shift",
+    "Monday to Friday"
+  ],
+  "benefits": "Flexible schedule",
+  "location": "",
+  "description": {
+    "Benefits": [
+      "Work from home"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "total work: 9 years (Preferred)",
+      "React: 5 years (Required)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:00:24.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f0c8a49bd2dd338144e"
+  },
+  "job_id": "42dd1b6c61b0413d",
+  "company": "Accenture",
+  "apply_link": "https://in.indeed.com/applystart?jk=42dd1b6c61b0413d&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57p8tokjbos89b&spon=0&xkcb=SoB467M39n6sZ429mR0ObzkdCdPP&xfps=bc9ff270-fa65-4262-9229-76b2b28899b4&sjdu=BQ1fOKU6SMjz57AxXCzG64DDplm6SwWjHcxyoDIphKnl_wvHCRawGo4TMF9Nk3xYlVH7434zVIPExsc2Bz1ST71MMg9GxtS4iE6VoCzynCR8CXIpNv9Q4xcmNQRh42uXDs3zwvO5KZvu6YduxnMUvEjEGnNHwT2ofFovQB4-7EJ3Zhobg7z2fs-xMAHZ0Qisw9_XINGINv7OnqX9-Wv1cg&vjfrom=vjs&asub=mob&astse=2560be1634cf4d2d&assa=5549",
+  "job_link": "https://in.indeed.com/rc/clk?jk=42dd1b6c61b0413d&bb=quDTS4QF9X1KV8IAbyARlTROKo79O9LhDAMh580G4T41iweBM0oV2PQlcv-I3MbZAGlxfQe6-2d133q4FqSSt45plcnCX3vN0osnt2eexDWmOZ-Z4UvVRw%3D%3D&xkcb=SoB467M39n6sZ429mR0ObzkdCdPP&fccid=a4e4e2eaf26690c9&vjs=3",
+  "job_posted": "13/08/2024",
+  "title": "Web Developer Senior Analyst",
+  "salary": "",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Rotational shift"
+  ],
+  "benefits": "",
+  "location": "Mumbai, Maharashtra",
+  "description": "",
+  "created_at": {
+    "$date": "2024-08-14T12:00:36.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f0e8a49bd2dd338144f"
+  },
+  "job_id": "057ca64192c9acac",
+  "company": "Oracle",
+  "apply_link": "https://in.indeed.com/applystart?jk=057ca64192c9acac&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57p8tokjbos89b&spon=0&xkcb=SoDl67M39n6sZ429mR0NbzkdCdPP&xfps=e4da82d2-3faa-4be4-b2c1-0371e66ed86b&sjdu=BQ1fOKU6SMjz57AxXCzG64DDplm6SwWjHcxyoDIphKkoNXWQuEW1qMrpNb8IYM-5rlElwey5u28VR-eddtH9LsRpY9LVgGlqp6z7DEYmVrwd5aDsXMBd_HzneJWaIQTMUEMwtBtwNe57IJmrJl2IrZWMy4xJxKJXGMUlTWm1oj8fEzHxw3nYrhOKZZF4cYvPw9_XINGINv7OnqX9-Wv1cg&vjfrom=vjs&asub=mob&astse=eb7d7ee9724e5444&assa=7248",
+  "job_link": "https://in.indeed.com/rc/clk?jk=057ca64192c9acac&bb=quDTS4QF9X1KV8IAbyARlXaqChuO9_LiDyOiSwKMJQIWGRo1WAgXms_kwlxbp7MliiqYwOIEHiGMYaOACbKQakRlxdBUMaZD6AE-t6bAu5Jo9oN-ceMYEg%3D%3D&xkcb=SoDl67M39n6sZ429mR0NbzkdCdPP&fccid=cd22d01053af7669&vjs=3",
+  "job_posted": "13/08/2024",
+  "title": "Software Developer 3 - Web Technologies",
+  "salary": "",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "Bengaluru, Karnataka",
+  "description": {
+    "Special Skill": [
+      "Experience in HTML5 and OJet web components.",
+      "Expertise in development using Object Oriented Patterns.",
+      "Expertise in HTML and CSS",
+      "Expertise in building Javascript based solutions.",
+      "Exposure / Experience in functional programming paradigms and dynamic programming languages (such as Javascript).",
+      "Experience in building browser side components.",
+      "Experience in implementing enterprise design patterns",
+      "Experience in Agile Development Methods such as scrum",
+      "Experience in Rational Clearcase",
+      "Exposure to product release cycles, from concept to delivery",
+      "Strong communication and people skills in working in a multidisciplinary, collaborative"
+    ],
+    "Job Requirement": [
+      "Very good knowledge required for programming and debugging in latest Web technologies",
+      "Must possess good problem solving, analytical and time management skills",
+      "Should know the basics of Software Development Processes and Methodologies",
+      "Must possess good teamwork skills and the ability to handle multiple concurrent projects in a fast-paced environment."
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:00:38.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f0f8a49bd2dd3381450"
+  },
+  "job_id": "c7fa73fa2bc216f3",
+  "company": "digirank360",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=c7fa73fa2bc216f3&bb=quDTS4QF9X1KV8IAbyARlcltWTbMmLC10gVq6QLz_dm6TcnwIxhxBX3nWX-_v4odDz2ViiJDmNZnT0IBsgFC1uZY9xHRXaMjJ1VI6f-2Z3yQfrJnwBhzL31M_IeLoACC&xkcb=SoBR67M39n6sZ429mR0MbzkdCdPP&fccid=82301816169b1d30&cmp=digirank360&ti=Web+Developer&vjs=3",
+  "job_posted": "10/08/2024",
+  "title": "Web Development Intern",
+  "salary": "",
+  "job_type": [
+    "Full-time",
+    "Permanent"
+  ],
+  "shift_schedule": [
+    "Day shift"
+  ],
+  "benefits": "Cell phone reimbursement",
+  "location": "Mp Nagar, Bhopal, Madhya Pradesh",
+  "description": {
+    "Responsibilities": [
+      "Assist with the design and development of web applications and websites.",
+      "Write and maintain code in HTML, CSS, and JavaScript.",
+      "Test and debug web applications.",
+      "Collaborate with the team and participate in meetings."
+    ],
+    "Requirements": [
+      "Pursuing or recently completed a degree in Computer Science or a related field.",
+      "Basic knowledge of HTML, CSS, and JavaScript.",
+      "Familiarity with web development tools and frameworks is a plus.",
+      "Strong problem-solving skills and eagerness to learn."
+    ],
+    "Benefits": [
+      "Cell phone reimbursement",
+      "Health insurance",
+      "Internet reimbursement"
+    ],
+    "Supplemental Pay": [
+      "Performance bonus"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "CSS: 1 year (Preferred)",
+      "total work: 1 year (Preferred)",
+      "HTML5: 1 year (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:00:39.995Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f118a49bd2dd3381451"
+  },
+  "job_id": "f7960a8249201483",
+  "company": "American Health Care Academy",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=f7960a8249201483&bb=quDTS4QF9X1KV8IAbyARlUxpWfd4kLzAyskU19s6gKloCLxUhAdfBo0HXRZK400euhlp_BPLbEKg9QSZh7SMT46jYvexpD6a5S05COzYKb5cukBcOFGn2V7_1AvAKc4H&xkcb=SoC467M39n6sZ429mR0DbzkdCdPP&fccid=8c99924c6b793384&cmp=Childcare-Software&ti=Web+Developer&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "Web Developer",
+  "salary": "₹7,00,000 - ₹15,00,000 a year",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Monday to Friday"
+  ],
+  "benefits": "Paid sick time",
+  "location": "",
+  "description": {
+    "Key Responsibilities": [
+      "Collaborate with product managers, designers, and other stakeholders to understand project requirements and translate them into technical specifications.",
+      "Architect, design, and develop scalable and maintainable software solutions using the LAMP stack and Laravel framework.",
+      "Implement best practices for code quality, performance, and security.",
+      "Oversee the deployment and management of applications on AWS, ensuring high availability and reliability.",
+      "Conduct code reviews to ensure compliance with coding standards and best practices.",
+      "Troubleshoot and resolve technical issues, both independently and collaboratively with the development team.",
+      "Stay up-to-date with the latest technologies, tools, and trends in software development and cloud computing."
+    ],
+    "Qualifications": [
+      "1. Bachelor's degree in Computer Science, Engineering, or a related field.",
+      "2. Minimum of 3-7 years of professional experience in software development, with a focus on web applications.",
+      "3. Strong proficiency in the LAMP stack (Linux, Apache, MySQL, PHP), including hands-on experience with PHP development.",
+      "4. Extensive experience with the Laravel framework and its ecosystem.",
+      "5. Solid understanding of cloud computing principles and experience working with AWS services, such as EC2, S3, RDS, and Lambda.",
+      "6. Excellent communication skills, with the ability to effectively collaborate with cross-functional teams.",
+      "7. Strong problem-solving skills and a proactive attitude towards addressing challenges.",
+      "8. Prior experience in a leadership or mentoring role is preferred."
+    ],
+    "Jadwal": [
+      "Monday to Friday"
+    ],
+    "Tunjangan": [
+      "Paid sick time",
+      "Provident Fund"
+    ],
+    "Upah Tambahan": [
+      "Yearly bonus"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "CSS: 3 years (Preferred)",
+      "total work: 5 years (Preferred)",
+      "HTML5: 3 years (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:00:41.999Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f138a49bd2dd3381452"
+  },
+  "job_id": "af2758d96f9cf155",
+  "company": "Gaan Software Pvt. Ltd.",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=af2758d96f9cf155&bb=quDTS4QF9X1KV8IAbyARlUs5xNU1ho1-wQ6HbtmFduMcrKMn-7yk27P-WHTCHUx57J_mCa2kiVVggbQUqdLsTo1IWwTJ8KFt_WF00IXG0hAjZTQJnVtRZO_EK0MrqYYH&xkcb=SoAl67M39n6sZ429mR0AbzkdCdPP&fccid=944329e9d4dce582&cmp=Gaan-Software-Pvt.-Ltd.&ti=Web+Designer&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "Web Designer/Developer",
+  "salary": "₹32,000 - ₹40,000 a month",
+  "job_type": [
+    "Permanent"
+  ],
+  "shift_schedule": [
+    "Day shift"
+  ],
+  "benefits": "Flexible schedule",
+  "location": "New Thippasandra, Bengaluru, Karnataka",
+  "description": {
+    "Benefits": [
+      "Flexible schedule",
+      "Health insurance"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "CSS: 1 year (Preferred)",
+      "web design: 1 year (Preferred)",
+      "total work: 1 year (Preferred)",
+      "WordPress: 1 year (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:00:43.625Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f1f8a49bd2dd3381453"
+  },
+  "job_id": "1f31c0a40d6d96c3",
+  "company": "Accenture",
+  "apply_link": "https://in.indeed.com/applystart?jk=1f31c0a40d6d96c3&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57p8tokjbos89b&spon=0&xkcb=SoCr67M39n6sZ429mR0HbzkdCdPP&xfps=13a7cb62-d7d1-4e27-ae9c-c3b360fd4321&sjdu=BQ1fOKU6SMjz57AxXCzG64DDplm6SwWjHcxyoDIphKkqPLgrsLYpLUaVh7EoAEfB3QUeZnkDEgF9H7PUKctXwgkJ5ylY9ojTfQSXw28KXC9IHecyaQFa4RAMdg9WAcK4-a5YsuDpUK9pg6lmYTMOl9xEjhrXhDCghEUZ7EO5phYn61VGi2_QdBR7j7sgR2QEw9_XINGINv7OnqX9-Wv1cg&vjfrom=vjs&asub=mob&astse=29a51dd59273c43a&assa=4533",
+  "job_link": "https://in.indeed.com/rc/clk?jk=1f31c0a40d6d96c3&bb=quDTS4QF9X1KV8IAbyARlSNM2dRNy6Lyu8hx-uwWg39nE7JbLRjLxEbnVU1vaOMtkx7hVRCHJUpVDCqomnT0teA6WNBl2zCjwzmCh0qU5VciEFCEORpZzg%3D%3D&xkcb=SoCr67M39n6sZ429mR0HbzkdCdPP&fccid=a4e4e2eaf26690c9&vjs=3",
+  "job_posted": "08/08/2024",
+  "title": "Web Developer Analyst",
+  "salary": "",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Rotational shift"
+  ],
+  "benefits": "",
+  "location": "Mumbai, Maharashtra",
+  "description": "",
+  "created_at": {
+    "$date": "2024-08-14T12:00:55.306Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f208a49bd2dd3381454"
+  },
+  "job_id": "46fbf92c10dddeae",
+  "company": "bliss web solution",
+  "apply_link": "https://in.indeed.com/applystart?jk=46fbf92c10dddeae&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57p8tokjbos89b&spon=0&xkcb=SoAf67M39n6sZ429mR0GbzkdCdPP&xfps=fa8d7ac0-a10d-46e8-a51a-ca3174a79895&sjdu=BQ1fOKU6SMjz57AxXCzG64DDplm6SwWjHcxyoDIphKlBJlNtfUp18hoJSLAkMj7MAC3q2AAFMBsxVF25tUtZfgWU_qbNl6-xTezznZ3m_dGZrHFzAQxhVTlYTG_DjIcVRzzdAxUrWa2pHOLBqQz935vbAAoM245Cy-WnRd3N4DWEneR9gJ2ccMX3-JjxrGSDw9_XINGINv7OnqX9-Wv1cg&vjfrom=vjs&asub=mob&astse=60c3e9bf38f33820&assa=6384",
+  "job_link": "https://in.indeed.com/rc/clk?jk=46fbf92c10dddeae&bb=quDTS4QF9X1KV8IAbyARlbrmSreot2oAlDPKJuZVWM4SySb3e36LDy-ZdyXGOMj5xYSWEpQJRdzmENexjeHpHw4bWT28yKdqk66cOczu1y993Y9PyTo9hEi2rdyJD86N&xkcb=SoAf67M39n6sZ429mR0GbzkdCdPP&fccid=dff35797e43d343f&vjs=3",
+  "job_posted": "14/08/2024",
+  "title": "Junior WordPress Frontend Developer",
+  "salary": "₹10,000 - ₹25,000 a month",
+  "job_type": [],
+  "shift_schedule": [],
+  "benefits": "Health insurance",
+  "location": "Ahmedabad, Gujarat",
+  "description": {
+    "Requirement": [
+      "Proficient understanding of web markup, including HTML5, CSS3",
+      "Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS",
+      "Proficient understanding of client-side scripting and JavaScript frameworks, including jQuery",
+      "Working knowledge of SEO principles",
+      "Basic proficiency with Photoshop and web design",
+      "Experience with cross-browser compatibility testing",
+      "Collaborate with cross-functional teams, including designers and backend developers.",
+      "Proven ability to work in a collaborative and dynamic team environment.",
+      "Excellent communication and interpersonal skills.",
+      "Must be curios, energetic and creative to help building the Bliss culture"
+    ],
+    "Benefit": [
+      "Competitive compensation and benefits package, including Health insurance.",
+      "Dynamic and supportive work environment.",
+      "Opportunities for professional growth and development.",
+      "Flexible work arrangements"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:00:56.964Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f2c8a49bd2dd3381455"
+  },
+  "job_id": "c502e0324120d7b4",
+  "company": "Lirctek technologies Pvt ltd",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=c502e0324120d7b4&bb=quDTS4QF9X1KV8IAbyARlQwMuOTVvoJfD0LRVF_zYu1wJxuOu5odpLH49PBX_MCc8kuOq3Qy9RNT9fEkQOEp8Sk29DsPTkmTyTJIcRAp4gMesYNi3iOmUJ7D2UUeFlhO&xkcb=SoCC67M39n6sZ429mR0FbzkdCdPP&fccid=ed09f54402ae7bb9&vjs=3",
+  "job_posted": "10/08/2024",
+  "title": "Web Developer",
+  "salary": "₹35,000 a year",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "Bengaluru, Karnataka",
+  "description": "",
+  "created_at": {
+    "$date": "2024-08-14T12:01:08.579Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f338a49bd2dd3381456"
+  },
+  "job_id": "e68fd0c53ded699c",
+  "company": "BOEING",
+  "apply_link": "https://in.indeed.com/applystart?jk=e68fd0c53ded699c&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57pai8uiaji892&spon=1&adid=424354245&xkcb=SoDo6_M39n6lljW3ah0LbzkdCdPP&xfps=0a4989df-4018-4bb1-b591-04b837a930bf&sjdu=QWF4TUFyrHvH7u082A4fa9ZcooW1S_KIFkO05IMUPA8&vjfrom=vjs&asub=mob&astse=b21a81a71418ba29&assa=5244",
+  "job_link": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BddK4H-tsabPiX3BvkwhvbvP4OkLNzlRX6egXJy9Hb12oL2JVotgvbkYnDIolponeATJa_nvz_x5RYdzqk44bkd9OCqugtupcdEkMde5nK6MqcbnbYR8LJla2MjucN7zOBPs5rOzoieI0CBoy77_rEEscdaCp2-HBCspBJIksTy7aguFMUgQ2r3Wt0fa5_jvNTszgL672ato07aNIqzwQBa208NKSvN6-nr1TjwSue1gAzH8aJvdHyIvVxKWu220-VC7iMD9zhCoD7bTeQVHG9mAtLFvApoaBsf4bfmamidMz0LH0NXy9lcS2wcPp-rJLhccdEZuzbtXmYNejgWbu2TafxlUOzh1fN2DjnQUAubMGvXkx0TZaD_qXHnDQiOr3ttk7LC3uTChUKd-K3aFKDuY-l7qTir4asJJlTyNPYVf-vTxSRxdVJskCPbB3SnDdGIvKYsDsREnGXlbLic7hrHm50DuetdT_r7eqEdBOpLCaucUfke_mnejerFWWNhjFWL4Qp0v9j-6xu1A7tQOUwDZ73QUPvlNzoVvuF6kQ0L3Cpf7MwMqyERnsshg_E258zDxO-gDp9miviPfAjpS-Hh8N7gYrb_LFc7P_vB_hGqlufA4vOA2rC6BQJuOWmGil6yoMgPfQqiBKFVMdxsbFCuYAdFDOWzGQoRh2d1DK2-mWrfmEGA0ULMNK8NHigZzB9rh6L0-AP8Ks8hFYLY6J5kBTYw3l_eGEI0h7nsTFr51RsPLjBpTphbTMbN4X5GdeG4Qr3rMRJ4N4lAEZAPtsWrrGJuTzb1LdyLlQC8wnv1g==&xkcb=SoDo6_M39n6lljW3ah0LbzkdCdPP&camk=4HOcmqOLYrAflQ1eWdDutQ==&p=0&fvj=0&vjs=3",
+  "job_posted": "12/08/2024",
+  "title": "Associate Web Developer",
+  "salary": "",
+  "job_type": [],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "Bengaluru, Karnataka",
+  "description": {},
+  "created_at": {
+    "$date": "2024-08-14T12:01:15.592Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f358a49bd2dd3381457"
+  },
+  "job_id": "349f5f4d4e3718f8",
+  "company": "Aristocrat",
+  "apply_link": "https://in.indeed.com/applystart?jk=349f5f4d4e3718f8&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57pai8uiaji892&spon=1&adid=434154083&xkcb=SoBc6_M39n6lljW3ah0KbzkdCdPP&xfps=a85e6e63-9e2a-4d24-aabd-e2009cb13ac1&sjdu=9nrDNPdV1DghkDNnC2WJlW1nrk21-asFvjSk9jx-s_O0AJ6UifNiON71GFDL-T3A_FXKgaayRnpusFExC_cArA1w3XjkKzijAiXUXu54GVbnHHTakJzeTs8HVCEyevjRWrO9mdFG7z9ykwHk3sIv9my6yV7Fv7R53XIw7ZX_t7zzBH5_i7sEFAs0UEqnEK3oL8V6Gy2lvaSjWK3zAQ7Iz7zd4icSCBcuT0tAD6x8IYaXVu6jN3FqZ7TEbttDyuJz6xQGOt7ze_IBHyAXDOzK1HnHraiMUbhRcsNNQDnrSmK3aj6tNs3KWOV7o3h0OwvK2pYX0PIdG7JKGY75u2KWsEbnTqfoL6A-z1M6sJyJAIj7Dw0ffOnLBl65DFd8iKIf6K8KXsMkz7iySrvwEdDaY6bvclEGKAGKBuTEYBcwFlg0NmBnSJc8v3p7ZIDI4Ga4o8voGnhO_ewAEc1ku5R_efD6XdVS2IhyGcteVm8KCbwgEGiI-8CcErDIDpfWh_0A5ajYEpEriTeraZw9d1v-Y0TY72_7CIAQwfv9eue1nmnS-YZvN57R3DbtEm98w4OlMjv4jr9Rwj0t5AvhOYFUoA&vjfrom=vjs&asub=mob&astse=0e124dc99e7c7e34&assa=6541",
+  "job_link": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D6mHyW9BDph52jF0tZlGMamgOqto2savGvGPs0lBAO14JfHQ9dYeBFUEyKBnj7zFr_vVh9fOPYhMHtRgPwjx37KyYkYDc106Dppfan4G_0f6jOp0Ye9-wHnLP_5rJrgteknk2DT-VN1hP6eZ44DiiJM78C1kpKn8GethiFW0664APzUiEuJhDLPivnTHp32ASGUqYUj2kwgnGebofdnBggSy8wn6tqOFFHU8waOrt_6fKxaYDneOHI_2tFOQuXq2u5baK8bNzgNacjcpFlJ7ewUduJFO9T4mmWjyy21VaUsJ3YBwOBrPCn8Kzt5i0SxVxwg0vhwXRg2e8Ml0kD5Rxkkj3q1Dq3WQljlOO2viOBnJiaYI5mot3Bq-IAFwblEuYNzy8Sysr9GrHx_V65Eg2S8OU0beCR9xE8l7b9B4vaFceCYtJAkpLuX4xI7i2dGuU3KuobvB9g-2kQ8rgLB5-RIXowOcqpHhkzXcZUHTJ0Y99ByJ-6_8iyV6aLKsYn71zB1kVdZlkHGGEmIPQd-CowUd8hEFSDn_J_n0dLCyr6M5-CPsLfSlaVz-xUixwcfmNG20CDxhIcEtpL-1bnWzfesxNcdb2NVUQVLT-0KppxbwmrVghKhbTd1vQ3051NshmoB39UMJNsoYeCeK63-ynELXkVD9dYxyMWyEgKQ068DIrcxRfYvNhzE5-T3PBHltT_mCA-ubaH_xALdbR8BdzC9x9cl9h5KZzmZLNtcu9rYEVLgmkLcCDypDpQrSwjNoAaevIwe2s89W4B5SJYsK_ShB-bb5rWEM6p-jj39VxBex923nW6bwYVm_uxzmSU25oH3GPao7OVg_67w2VNvZ6UYvSfepfETp6WFPYTAvNjywOimXfH1ATp8juaCro5oTTtEBRxm1VpfeAYNQbf7BR6MnC1mtZycsNEOqdQfodWJeU8pjVUTtQAHLQl1n2h8j73NdUC44kETixDAW2d_lgaW57WkOTS4FW4kqFH06eovKG_G-ToAvQiClKR_EM46U0fiy5kDLZiHnbBWSjxhh1_CJxP9vpuXIILqKQzgnRg_VC_wpnEfHbKQlMmVr2xRum7PTPKErLs_OxSau_1peLsYg8FaXgvyJkFKcYPwuMb_l0iDNCZrfnt3DFvwVBOY5yrJsz8aNh_IJSWVtSeVRYgi4OlIAtax-5uTjDKOsZCDsws3D3Hmn1GYg1l-V_pX7geYe_uflC3vf-727ZtfDm7&xkcb=SoBc6_M39n6lljW3ah0KbzkdCdPP&camk=nUmJqO2E8rj6xHSGZy99_Q==&p=1&fvj=0&vjs=3",
+  "job_posted": "02/08/2024",
+  "title": "Team Lead - Full Stack Development",
+  "salary": "",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "",
+  "description": {},
+  "created_at": {
+    "$date": "2024-08-14T12:01:17.464Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f418a49bd2dd3381458"
+  },
+  "job_id": "658f0ce9d1d1009f",
+  "company": "Cencora",
+  "apply_link": "https://in.indeed.com/applystart?jk=658f0ce9d1d1009f&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57pai8uiaji892&spon=1&adid=427716885&xkcb=SoDB6_M39n6lljW3ah0JbzkdCdPP&xfps=9cf740d7-dc2a-452f-ae37-6089f01aa3bb&sjdu=i6xVERweJM_pVUvgf-MzufP_wZDyVPczTVsvYigk1x3b83DJSzwtUydmVePtw_8k&vjfrom=vjs&asub=mob&astse=ba6c04d63ac29f15&assa=8430",
+  "job_link": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CNzRKNSVgnP-awBOV7yV09ubgc7YHnGd1YfY0_aJP4wSG_8oqPWshyv5mq5em8jz9IicmvNgVRbfN4Kqg2rCI9qwbxZ9G0MTCGK1Ytci7zRBkIW9Lj5lT62Vyxa9Nb0OvN60IeYsWRE13pJ-QA99PmcFjSw3ys6qnL5AOySLEH-qd00IdcmcLYMYf7Wd0JOt0z1UzYKLmZW-Zvlfdu4eWqJBl4RDIu0b9Qi9LWh_3-PtGSXATc5v1POEsW_kMS3bt-4XZPg0UJ1voy0Xvxyp4grX9O-OQXdqnlGbpiG9fbdErIzkZYKuywaVYCNQSPUzU4junYmll54ydYrUZfgKqKYs8h7CWwBJmC0k1s_Kpgbzuacks4WA9vrL7F60PWZUmR9D17qhq7r2pL99LYJLRsf8VVzPdKOTS4k6DvH1CUbnpTNTEFtaAVHMRZpQaJm9MDvdE3-zr1k-bij0bRnv1kI8suB2g2HqFtsJWDLZbNNfDtpK7asAyTg57JpDIKrAUp4V8jZogDiaP6PyxtaV0M_mk23Ya2Cr-f05KZR1Webv2t5HpBClLJp908OIWgmQsMkiejvVGgovj9wCi2ahet9fGcMHXeQZmVallP-I87iSuhmhGGNypG&xkcb=SoDB6_M39n6lljW3ah0JbzkdCdPP&camk=4HOcmqOLYrDSydgOtdDgDQ==&p=2&fvj=0&vjs=3",
+  "job_posted": "09/08/2024",
+  "title": "Engineer III - Software Engineering (IN)",
+  "salary": "",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [],
+  "benefits": "Health insurance",
+  "location": "Pune, Maharashtra",
+  "description": "",
+  "created_at": {
+    "$date": "2024-08-14T12:01:29.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f428a49bd2dd3381459"
+  },
+  "job_id": "a11f5c753db9a2d8",
+  "company": "BOEING",
+  "apply_link": "https://in.indeed.com/applystart?jk=a11f5c753db9a2d8&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57pai8uiaji892&spon=1&adid=424354245&xkcb=SoD76_M39n6lljW3ah0PbzkdCdPP&xfps=b4a641ab-224c-4aba-aa5a-7e597a3840b9&sjdu=QWF4TUFyrHvH7u082A4fa4l4071J-3BvkkTHh3MBLGM&vjfrom=vjs&asub=mob&astse=0aeee4b187fee8cc&assa=122",
+  "job_link": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BddK4H-tsabPiX3BvkwhvbvP4OkLNzlRX6egXJy9Hb12oL2JVotgvbkYnDIolponeATJa_nvz_xzgXCa8Y2E6tWcwHXn-UaMeHF4TVuFLy97ZCMfjzfBgbWwTClQa1m2e3oswAHxbWRvu_I2JJzuhr3MUF3CVvhHnuePxZySo4lebxMBHiE8aTJ1omRDwuCRzDXRrEKWrpFjHxylSKH3Qmo8liiMMwpf5riVmovVanTChsZwxDFfSJkc7ltkEjGEmfHR7y3tAFJ03B_RQCcppq1FLwYkgSQ7WkgQ-Y3KJgptjL3ijBeHtGKjimjz5nK_2sw2Ti7C2_mGUbJ7a0pUhWJxfi-K_SR39lyWZ3cy2kIzxjV20EzRufpGXIE0vMO31061LYrbA9OlQ2zOIKF8ph3a00lIxqikPaQNqBBuPxqcMguUS1SZkTaxm5Z-R9YAIsXohNxtuiuDwkZq6Z1WevcUB7_SlL1RsLuYAbwoXIo0pBQO3hAnXsCIoQ0tx6_RGfuoHxllhZPpuNrrSFg1ad99QmBtgOeEMTZT9HxhQjlz9MjVNmu5dTDbJIrg7wwkVlB8oraCgRHY0xVRP3arspkJTcXTJPNbBbrLK7RtNy9j34A27X72lXpxfZNpHl_E32G2o9ukpU7kByBdPqww5U9u67GRmc6ZlNSfEu6E4LqQK2sCwvtKdTa06cwEdCuiZEfTr-oeECGoL4hWaylHAeYFOj1OR1CvEL_-bglA1ydLb29DFtl6TyPAVmTP799EN9M-6_3ff6p12299y4eowQio1CExsghrQeDQVzVgx-ug==&xkcb=SoD76_M39n6lljW3ah0PbzkdCdPP&camk=4HOcmqOLYrAflQ1eWdDutQ==&p=4&fvj=0&vjs=3",
+  "job_posted": "12/08/2024",
+  "title": "Experienced Software Developer – .Net Fullstack",
+  "salary": "",
+  "job_type": [],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "Bengaluru, Karnataka",
+  "description": {},
+  "created_at": {
+    "$date": "2024-08-14T12:01:30.525Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f4e8a49bd2dd338145a"
+  },
+  "job_id": "97ab536747f79781",
+  "company": "Accenture",
+  "apply_link": "https://in.indeed.com/applystart?jk=97ab536747f79781&from=vj&pos=bottom&mvj=0&jobsearchTk=1i57pai8uiaji892&spon=0&xkcb=SoC767M39n6lljW3ah0ObzkdCdPP&xfps=de917b8f-0491-40a8-bb3f-ab7f0a4060df&sjdu=BQ1fOKU6SMjz57AxXCzG64DDplm6SwWjHcxyoDIphKnyUj4YpqPV6Cwdg1JVaXerx02dS5ZXdVbeB_5GrfNTnWSpJrdYntVNMTGwStOKRbeQ74VARlWRqgVh-zg3B7C_K5g4d00t2T-it8ns2azGbyyQga50bcQaJl8-fUnL6maDkR48C7koqKbr7SwBoACtw9_XINGINv7OnqX9-Wv1cg&vjfrom=vjs&asub=mob&astse=2923f0a91abedc28&assa=1446",
+  "job_link": "https://in.indeed.com/rc/clk?jk=97ab536747f79781&bb=w5_9MAp9gDq6-carS-t0CIElYDA25x9RVGy9-G0btSF0dxMWXD2EhZ4vdlQqETFtSyj1-8zqLg3K4_UgDtzcG0XicoozqYTU6WHR1UoG-LvTZcabDT_2DA%3D%3D&xkcb=SoC767M39n6lljW3ah0ObzkdCdPP&fccid=a4e4e2eaf26690c9&vjs=3",
+  "job_posted": "14/08/2024",
+  "title": "Application Developer",
+  "salary": "",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "Bengaluru, Karnataka",
+  "description": "",
+  "created_at": {
+    "$date": "2024-08-14T12:01:42.184Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f508a49bd2dd338145b"
+  },
+  "job_id": "5dc55b0160830411",
+  "company": "Caves Infotech",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=5dc55b0160830411&bb=w5_9MAp9gDq6-carS-t0CBtCsAKiq9NOqkwJNwjsTL4vTk8iPaTsV9o8hacneHmvyGjQy3kU0tOLLbpyXVCzmacog_pSGbBgAbqzwgBgydtNjooSZCs6vaJ3jZZQbKoA&xkcb=SoBS67M39n6lljW3ah0BbzkdCdPP&fccid=07770bef31590975&cmp=Caves-Studio-Architect&ti=Software+Engineer&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "Software Developer",
+  "salary": "₹10,000 - ₹18,000 a month",
+  "job_type": [
+    "Full-time",
+    "Part-time",
+    "Fresher",
+    "Permanent"
+  ],
+  "shift_schedule": [
+    "Day shift"
+  ],
+  "benefits": "Flexible schedule",
+  "location": "Nashik, Maharashtra",
+  "description": {
+    "Key Responsibilities": [
+      "Design, develop, and maintain scalable web applications using Node.js, React.js, MongoDB, and Express.js.",
+      "Collaborate with cross-functional teams to define, design, and deliver new features and improvements.",
+      "Write clean, efficient, and maintainable code.",
+      "Troubleshoot and debug issues across the stack.",
+      "Stay current with industry trends and technologies to continually improve our development practices.",
+      "Contribute to code reviews and provide constructive feedback to peers."
+    ],
+    "Requirements": [
+      "Proven experience with Node.js, React.js, MongoDB, and Express.js.",
+      "Strong understanding of web development principles and best practices.",
+      "Experience with RESTful APIs and asynchronous programming.",
+      "Familiarity with version control systems (e.g., Git).",
+      "Ability to work independently and manage time effectively.",
+      "Excellent problem-solving skills and attention to detail.",
+      "Good communication and collaboration skills."
+    ],
+    "Nice to Have": [
+      "Knowledge of Next.js and server-side rendering.",
+      "Experience with cloud services (e.g., AWS, Azure).",
+      "Understanding of Docker and containerization.",
+      "Familiarity with testing frameworks and practices."
+    ],
+    "Why Join Us": [
+      "Be a part of an innovative startup with a dynamic work environment.",
+      "Opportunities for growth and professional development.",
+      "Collaborative and supportive team culture."
+    ],
+    "Benefits": [
+      "Flexible schedule",
+      "Internet reimbursement"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "React: 1 year (Required)",
+      "MERN: 1 year (Preferred)",
+      "Node.js: 1 year (Required)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:01:44.367Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f518a49bd2dd338145c"
+  },
+  "job_id": "1fceb1a640da73e4",
+  "company": "Employee Hub",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=1fceb1a640da73e4&bb=w5_9MAp9gDq6-carS-t0CCtCkuOdC4OfrqJKrhVqlh7B7LwtVwMYrgdaGyboEPK1AZI0-Rna9wX_-OmJQY9ovJbHK4I4lyBZIIrKSQvgtMrFlbjnY0mQps7eQM10FZyY&xkcb=SoDm67M39n6lljW3ah0AbzkdCdPP&fccid=e6edbe726cb5e1cb&cmp=Employee-Hub&ti=Python+Developer&vjs=3",
+  "job_posted": "14/08/2024",
+  "title": "Python Developer",
+  "salary": "Up to ₹1,20,000 a month",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [
+    "Day shift"
+  ],
+  "benefits": "Health insurance",
+  "location": "",
+  "description": {
+    "Benefits": [
+      "Health insurance"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "Python: 4 years (Required)",
+      "total work: 7 years (Required)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:01:45.910Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f538a49bd2dd338145d"
+  },
+  "job_id": "b0e83c94500201c8",
+  "company": "OnionDev Technologies Pvt Ltd",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=b0e83c94500201c8&bb=w5_9MAp9gDq6-carS-t0CBEXcLgXuPd-yVgOyU6Q4qIfpdlyPM1YvpyZgKe-pTWyVY2cc9WE2HwLePsxWfMCOm4t8bYbdDP11Zt8I3NzUmTCQuNqcd4K04LCxWIWnJtX&xkcb=SoBo67M39n6lljW3ah0HbzkdCdPP&fccid=51a83a81994cd306&cmp=OnionDev-Technologies-Pvt.-Ltd.&ti=Software+Engineer&vjs=3",
+  "job_posted": "14/08/2024",
+  "title": "Software Engineers – Geospatial Technology",
+  "salary": "₹3,00,000 - ₹12,00,000 a year",
+  "job_type": [
+    "Full-time",
+    "Permanent"
+  ],
+  "shift_schedule": [
+    "Day shift",
+    "Monday to Friday"
+  ],
+  "benefits": "Leave encashment",
+  "location": "Greater Kailash, Delhi, Delhi",
+  "description": {
+    "Benefits": [
+      "Leave encashment",
+      "Paid sick time"
+    ],
+    "Supplemental Pay": [
+      "Quarterly bonus"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "Google Earth Engine: 3 years (Preferred)",
+      "Django: 3 years (Preferred)",
+      "AWS lambda/Azure: 3 years (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:01:47.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f558a49bd2dd338145e"
+  },
+  "job_id": "0127820133481184",
+  "company": "Stalwarts Servicios",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=0127820133481184&bb=w5_9MAp9gDq6-carS-t0CA-UwzFaLgf_ZwAcXfzPvwT8W6L6HgwnYBthAU_p0po2_CZfxinpM1wefXkK0wAyVKaVx3ysLK9FeGeCgo6kaOxeGOwPm-fqD6eQSAUScaVb&xkcb=SoDc67M39n6lljW3ah0GbzkdCdPP&fccid=57fc6ea6e48ce2fd&cmp=Stalwarts-Servicios&ti=Angular+Developer&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "JUNIOR ANGULAR DEVELOPER",
+  "salary": "₹3,00,000 - ₹5,00,000 a year",
+  "job_type": [
+    "Full-time",
+    "Permanent"
+  ],
+  "shift_schedule": [
+    "Day shift"
+  ],
+  "benefits": "",
+  "location": "",
+  "description": {
+    "Experience": [
+      "total work: 1 year (Preferred)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:01:49.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f5d8a49bd2dd338145f"
+  },
+  "job_id": "c6176082c89099cb",
+  "company": "Aesthetix Edu Tech",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B_TsFZK9Bg8e0rlWl3E7qc_DPk8MLDtlHzY7iOpMJAQr3vascNA4rhL742PmiPTM47mngvI0yVAMjTuZ_hsT8e6ZMsojRGOCaPnNCcFELT5bEqCtbXV2ga0RzZI5qYkqfMdb5qboY60op3cr4TGdvWpdOWRMQID6Zx6oNu1X5WpeZxPPVy2uinWuyVPefdg2bgzEOG37cyWahL1qZam-qkQT3oKpzhgUHQgfIKvG36uR4_YepvxRbu8DMtZDL1PGbinZ9AYGPyU-kiVgcxmXGVtYM-rIuEKvhBJkF3RsO0ZcON9C3pXPIlX7sXF9Kd6Ax8AftiETxOTuA1etabyKtQ045hCEpWM0fSJ9hHl4A5ycDl0QzKW8nXvr-2CK9sqk5d5KxVcEomGH7a4-wjVobBBhpx_vmK6ghNJrtJkBe9ohS-I-8gpGcIpziisdIGdeYCOvecy2J2dvTiS42vyN0mZQGOlxf5SRY4WJBZ7QzVdLSOgw9wvLWVHE7747AWsmgeg-P9eN5bX9Rqhf06H3PWMq4TSMoXPzdXh0jnpXrZpdFlguwVNEPAL4Fnna3npVT7WfMJkIj16KnfvUnCme1xbUyysYOZFyN8jw5qAXMMRxY8thbU7sKJN-Jksfa_x-ehl7rBVp2NlMSAlmRDXVW-4PLccWMc9WppUq9q8AnH4Zs0dYgbaOvR3gWlbEbfNjI9cl6Z4UoEpw==&xkcb=SoDT6_M39n6g5NAR3z0KbzkdCdPP&camk=nUmJqO2E8rheLgEIqDUswg==&p=1&fvj=1&vjs=3",
+  "job_posted": "10/08/2024",
+  "title": "MEARN(JavaScript) Full Stack Development Trainer (Teacher/Faculty, Kochi)",
+  "salary": "₹25,000 - ₹60,000 a month",
+  "job_type": [
+    "Full-time",
+    "Permanent"
+  ],
+  "shift_schedule": [
+    "Day shift"
+  ],
+  "benefits": "",
+  "location": "Kochi, Kerala",
+  "description": {
+    "Job detail": [
+      "Mentoring and educating degree graduates and working professionals in MEARN Stack.",
+      "Guiding them through projects.",
+      "Candidates from Kerala are preferred and should be able to relocate to Kochi."
+    ],
+    "Responsibilities": [
+      "Take Training for fresher students and professionals for Web Development Full stack Topics in MEARN",
+      "Demonstrating how to create web applications and APIs.",
+      "Teaching deployment and hosting strategies.",
+      "Offering support, feedback, and mentorship to students during projects and assignments.",
+      "Should be willing and have good flair for training and mentoring freshers and other candidates."
+    ],
+    "Qualifications": [
+      "Proficiency in Front end Technologies like HTML, CSS, JavaScript, Git, Bootstrap and Back-end development using NodeJS and ExpressJS",
+      "Understanding of RESTful API design",
+      "Proficiency Database design and usage with MySQL and MongoDB.",
+      "Proficiency in jQuery, AJAX, ReactJS and AngularJS is an added advantage.",
+      "Deployment and hosting strategies."
+    ],
+    "Looking for immediate joining": [
+      "Fluency in Malayalam and English"
+    ],
+    "Ability to commute/relocate": [
+      "Kochi, Kerala: Reliably commute or planning to relocate before starting work (Required)"
+    ],
+    "Application Question(s)": [
+      "Are you interested in Teaching Profession?",
+      "How many years of Teaching Experience do you have in Web Development using MEARN stack?"
+    ],
+    "Experience": [
+      "HTML/CSS: 1 year (Required)",
+      "Angular JS: 1 year (Preferred)",
+      "JavaScript: 1 year (Required)",
+      "REACT JS: 1 year (Required)",
+      "Node.js: 1 year (Required)",
+      "Express.js: 1 year (Required)",
+      "Teaching: 1 year (Required)"
+    ],
+    "Location": [
+      "Kochi, Kerala (Required)"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:01:57.206Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f5f8a49bd2dd3381460"
+  },
+  "job_id": "0d1ea9cca540667e",
+  "company": "Web Forte Technologies Pvt. Ltd.",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0C0Ta7J0dlH2idkeHLUwrVhQAzZKQVjMkiyxrGCiUlHwoiWx5-SF1zAwMOhWgqahUL_v3uVgLDQ9xBN4eRfZr2SW2GL4pvqlP4HhEy4ymzmppnnQZsfrDaFucanM7G39IJXgt0Iy7oQzU-2E09agZaYf7CV8Yzc8PvputraUeB60RYrO5PouVQkb4IvKeH6u8CfL1hqwpFDlJ2dbaved3c7z-lNQ7ioOlqhJnqt7Drv9BITNFsVqEck9F6cIplQhwj9cyU8yh9JMnQivZ_oqAvucnqMwlW9khBQ9hzHALGKsfzdK_T49x5ywAYrWn5hkVAuj8niT9_VGHW_rkgVWKgAOqDFCv7zH7blj-tKDL8wAnQWqCAFTFDmkWcSy1tICP2NSJHoyxgnDC50UECuvCX90poQLqmSqwCyLOwdQQei68Tt1JKWOhj48DMOptIvEP7YM9BD2Sb1PkHRFvWsMGXJsAjCSU209Z9nIh0A8DMGpr_9jnc5w34MEX3WdTZJinvFJXLpKpzWnrNPYKkMGBb0lzHOcTMHyzs6sbAU-GIdCJuRVedn8djGT619EpM9FcDI5y4aD4PQ1FMZF2qR2VOG500nPH1DwukEVTZzryVf-wFKFheSV9BRmXOH_SCOjw7a5vg8Ki0mtXJT-vbXthhaMif_rWUAu4Dk5YH37TLmyA==&xkcb=SoBO6_M39n6g5NAR3z0JbzkdCdPP&camk=nUmJqO2E8rgZZxS1snWjXw==&p=2&fvj=1&vjs=3",
+  "job_posted": "11/08/2024",
+  "title": "PHP Developer | 2+ Years | Mohali | Work from office only",
+  "salary": "₹11,850.43 - ₹45,000.00 a month",
+  "job_type": [
+    "Full-time",
+    "Permanent"
+  ],
+  "shift_schedule": [
+    "Day shift",
+    "Fixed shift",
+    "Monday to Friday"
+  ],
+  "benefits": "Flexible schedule",
+  "location": "Mohali, Punjab",
+  "description": {
+    "Good to have Technical Skills": [
+      "Hubspot",
+      "Odoo",
+      "Shopify",
+      "NodeJS",
+      "AWS"
+    ],
+    "Education": [
+      "Bachelor's (Preferred)"
+    ],
+    "Experience": [
+      "PHP: 1 year (Preferred)",
+      "total work: 1 year (Preferred)",
+      "software development: 1 year (Preferred)"
+    ],
+    "Jadwal": [
+      "Day shift",
+      "Fixed shift",
+      "Monday to Friday"
+    ],
+    "Tipe Lokasi": [
+      "In-person"
+    ],
+    "License/Certification": [
+      "PHP (Preferred)"
+    ],
+    "Location Type": [
+      "In-person"
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:01:59.378Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bc4f618a49bd2dd3381461"
+  },
+  "job_id": "ba82ca4a81711d85",
+  "company": "Hashira Works Pvt Ltd",
+  "apply_link": "apply through indeed",
+  "job_link": "https://in.indeed.com/rc/clk?jk=ba82ca4a81711d85&bb=IhsS1vny9tC2KimyWU7Mujj3-NmJfFMJitAjhucRZBWNRY7tkW9WLlCW-5odRodSMgIhWyqpHbMRPKJ9KSLmTyPaIdq7FYXyeaGNkOGT7EHLbX1BS7LTJgxFEgjFrNHf&xkcb=SoAO67M39n6g5NAR3z0IbzkdCdPP&fccid=dd616958bd9ddc12&vjs=3",
+  "job_posted": "13/08/2024",
+  "title": "Associate Software Developer",
+  "salary": "₹8,00,000 - ₹12,00,000 a year",
+  "job_type": [
+    "Full-time"
+  ],
+  "shift_schedule": [],
+  "benefits": "",
+  "location": "Hyderabad, Telangana",
+  "description": {
+    "Eligibilit": [
+      "Bachelor's degree in Engineering without any backlogs.",
+      "Should have very strong Problem-Solving and Analytical Skills.",
+      "Mandatory to have built projects by self or built a portfolio outside academic curriculum.",
+      "Anyone without a good github profile will be automatically rejected"
+    ],
+    "Responsibilitie": [
+      "Collaborate with cross-functional teams to design, develop, and implement high-quality software solutions.",
+      "Write clean, maintainable, and efficient code using best practices in software development.",
+      "Contribute to all phases of the software development lifecycle, including requirements gathering, design, implementation, testing, and deployment.",
+      "Participate in code reviews to ensure adherence to coding standards and to improve the overall quality of the codebase.",
+      "Debug and resolve software defects and issues, working closely with the quality assurance team.",
+      "Continuously update technical knowledge and skills by attending workshops, reading industry publications, and participating in professional associations.",
+      "Communicate effectively with team members, managers, and other stakeholders to ensure project goals are met and expectations are clear."
+    ],
+    "Skills Require": [
+      "Strong foundation in programming concepts and data structures, with proficiency in at least one programming language (e.g., Java, C++, C#, or JavaScript).",
+      "Familiarity with object-oriented programming, design patterns, and software development best practices",
+      "Basic understanding of web development technologies, such as HTML, CSS, and JavaScript.",
+      "Knowledge of databases, including SQL and NoSQL, and experience with database design is desirable.",
+      "Exposure to version control systems (e.g., Git) and collaboration tools (e.g., Jira, Trello, or Confluence).",
+      "A passion for technology and a genuine interest in the software development process.",
+      "Knowledge of Golang, Rust, any JavaScript frameworks like React, Next, Express/Node/Nest, etc is a plus.",
+      "Any prior blockchain related development/ internship is a plus."
+    ],
+    "What we Offe": [
+      "A supportive work environment where you can develop your skills and grow as a professional.",
+      "The opportunity to work on innovative and exciting projects that make a real impact on our customers. Be a part of small high performing product development team.",
+      "Ongoing training and development opportunities, including access to industry events, workshops, and online resources.",
+      "A diverse and inclusive company culture that fosters collaboration, creativity, and innovation.",
+      "Opportunities for career advancement within the company as you gain experience and demonstrate strong performance.",
+      "A friendly and supportive team of professionals who are committed to helping each other succeed.",
+      "Employee recognition programs and regular performance feedback to encourage personal and professional growth."
+    ]
+  },
+  "created_at": {
+    "$date": "2024-08-14T12:02:01.139Z"
+  }
+},
+]
