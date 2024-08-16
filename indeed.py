@@ -282,6 +282,9 @@ class IndeedScraper:
         else:
             df.to_excel(self.output_file, index=False , header=True)
 
+    def create_json(self,data):
+        pass
+
 if __name__ == '__main__':
     webscrapper = IndeedScraper()
     webscrapper.scrape()
